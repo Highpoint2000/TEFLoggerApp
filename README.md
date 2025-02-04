@@ -14,7 +14,7 @@ Logging App for TEF Receiver on Android Smartphones
 
 ## Installation notes:
 
-1. [Download](https://github.com/Highpoint2000/TEFLoggerApp/blob/main/TEFLogger_2.0.apk) the last apk 
+1. [Download](https://raw.githubusercontent.com/Highpoint2000/TEFLoggerApp/main/TEFLogger_2.0.apk) the last apk 
 2. Install the apk on your smartphone with paket manager
 3. Confirm GPS access
 
