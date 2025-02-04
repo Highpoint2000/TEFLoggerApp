@@ -1,6 +1,9 @@
 # TEF Logger App
 Logging App for TEF Receiver on Android Smartphones
 
+![image](https://github.com/user-attachments/assets/e9aa8111-5824-4959-a261-a65a683888e0)
+
+
 ## Version 2.0 (only works from TEF Firmware from v2.11.21 and Android Smartphones!)
 
 - URDS Uploader integrated with copy functions
@@ -28,4 +31,5 @@ Logging App for TEF Receiver on Android Smartphones
 - Valid FMLIST data (OMID + email address) must be entered for the upload
 - Copied CSV files are located in the /Downloads/URDS folder on the smartphone
 - The app is able to continue logging in the background. To do this, you may need to adjust the energy saving options in your smartphone!
+- Individual files are merged before uploading
   
