@@ -5,19 +5,20 @@ Logging App for TEF Receiver on Android Smartphones
 
 
 
-## Version 2.0 (only works from TEF Firmware from v2.11.21 and Android Smartphones!)
+## Version 2.1 (only works from TEF Firmware from v2.11.21 and Android Smartphones!)
 
-- URDS Uploader integrated with copy functions
-- MAP view of identified stations
-- Switch between day and night design
-- Notifications about available app updates
-- Code and UI optimizations
+- Improved background mode
+- Always on display
+- Vibration and sound status are updated on startup and saved on exit
+- The map now remains activated even when the display is rotated
+- Other bug fixes and design adjustments
 
 ## Installation notes:
 
-1. [Download](https://raw.githubusercontent.com/Highpoint2000/TEFLoggerApp/main/TEFLogger_2.0.apk) the last apk 
+1. [Download](https://raw.githubusercontent.com/Highpoint2000/TEFLoggerApp/main/TEFLogger_2.1.apk) the last apk 
 2. Install the apk on your smartphone with paket manager
 3. Confirm GPS access
+4. Check your energy saving settings
 
 ## Notes: 
 
@@ -33,4 +34,14 @@ Logging App for TEF Receiver on Android Smartphones
 - Copied CSV files are located in the /Downloads/URDS folder on the smartphone
 - The app is able to continue logging in the background. To do this, you may need to adjust the energy saving options in your smartphone!
 - Individual files are merged before uploading
+
+## History: 
+
+### Version 2.0 (only works from TEF Firmware from v2.11.21 and Android Smartphones!)
+
+- URDS Uploader integrated with copy functions
+- MAP view of identified stations
+- Switch between day and night design
+- Notifications about available app updates
+- Code and UI optimizations
   
