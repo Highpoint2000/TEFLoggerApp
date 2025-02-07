@@ -5,13 +5,12 @@ Logging App for TEF Receiver on Android Smartphones
 
 
 
-## Version 2.1 (only works from TEF Firmware from v2.11.21 and Android Smartphones!)
+## Version 2.2 (only works from TEF Firmware from v2.11.21 and Android Smartphones!)
 
 - Improved background mode
-- Always on display
-- Vibration and sound status are updated on startup and saved on exit
-- The map now remains activated even when the display is rotated
-- Other bug fixes and design adjustments
+- Bug with the mono/stereo flag fixed
+- White font now black in daylight mode 
+- Repeated station IDs eliminated
 
 ## Installation notes:
 
@@ -37,6 +36,14 @@ Logging App for TEF Receiver on Android Smartphones
 - Individual files are merged before uploading
 
 ## History: 
+
+### Version 2.1 (only works from TEF Firmware from v2.11.21 and Android Smartphones!)
+
+- Improved background mode
+- Always on display
+- Vibration and sound status are updated on startup and saved on exit
+- The map now remains activated even when the display is rotated
+- Other bug fixes and design adjustments
 
 ### Version 2.0 (only works from TEF Firmware from v2.11.21 and Android Smartphones!)
 
