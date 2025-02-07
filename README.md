@@ -11,6 +11,8 @@ Logging App for TEF Receiver on Android Smartphones
 - Bug with the mono/stereo flag fixed
 - White font now black in daylight mode 
 - Repeated station IDs eliminated
+- Log button only becomes active when GPS data is received
+- Added dbµV flag
 
 ## Installation notes:
 
