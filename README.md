@@ -5,14 +5,9 @@ Logging App for TEF Receiver on Android Smartphones
 
 
 
-## Version 2.2 (only works from TEF Firmware from v2.11.21 and Android Smartphones!)
+## Version 2.3 (only works from TEF Firmware from v2.11.21 and Android Smartphones!)
 
-- Improved background mode
-- Bug with the mono/stereo flag fixed
-- White font now black in daylight mode 
-- Repeated station IDs eliminated
-- Log button only becomes active when GPS data is received
-- Added dbµV flag
+- Added source selection for multiple TEF receivers
 
 ## Installation notes:
 
@@ -38,6 +33,15 @@ Logging App for TEF Receiver on Android Smartphones
 - Individual files are merged before uploading
 
 ## History: 
+
+### Version 2.2 (only works from TEF Firmware from v2.11.21 and Android Smartphones!)
+
+- Improved background mode
+- Bug with the mono/stereo flag fixed
+- White font now black in daylight mode 
+- Repeated station IDs eliminated
+- Log button only becomes active when GPS data is received
+- Added dbµV flag
 
 ### Version 2.1 (only works from TEF Firmware from v2.11.21 and Android Smartphones!)
 
