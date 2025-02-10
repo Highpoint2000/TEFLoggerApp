@@ -5,14 +5,17 @@ Logging App for TEF Receiver on Android Smartphones
 
 
 
-## Version 2.3 (only works from TEF Firmware from v2.11.21 and Android Smartphones!)
+## Version 2.4 (only works from TEF Firmware from v2.11.21 and Android Smartphones!)
 
-- Added source selection for multiple TEF receivers
+- Design and function is now compatible with Android 15
+- Radio text can be optionally switched on
+- Long press on the checkboxes of the CSV files selects or deselects all files
+- Minor code optimizations
 
 ## Installation notes:
 
 1. Install new TEF Firmware from [here](https://github.com/Highpoint2000/TEFLoggerApp/tree/main/TEF_Firmware)
-2. [Download](https://raw.githubusercontent.com/Highpoint2000/TEFLoggerApp/main/TEFLogger_2.3.apk) the last apk 
+2. [Download](https://raw.githubusercontent.com/Highpoint2000/TEFLoggerApp/main/TEFLogger_2.4.apk) the last apk 
 3. Install the apk on your smartphone with paket manager
 4. Confirm GPS access
 5. Check your energy saving settings
@@ -33,6 +36,10 @@ Logging App for TEF Receiver on Android Smartphones
 - Individual files are merged before uploading
 
 ## History: 
+
+### Version 2.3 (only works from TEF Firmware from v2.11.21 and Android Smartphones!)
+
+- Added source selection for multiple TEF receivers
 
 ### Version 2.2 (only works from TEF Firmware from v2.11.21 and Android Smartphones!)
 
