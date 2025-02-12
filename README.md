@@ -10,7 +10,7 @@ Interactive Logging App for TEF Receiver on Android Smartphones (Compatible from
 
 - Added remote functions for TEF (activate in menue): Freq up/down - Search up/down - Auto Scan on/off - Frequency input (longer hold auto scan) 
 - Correction of the status bar and gps display
-
+- TEF type and firmware version integrated into URDS upload file
 
 ## Installation notes:
 
