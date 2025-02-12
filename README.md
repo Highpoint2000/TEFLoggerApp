@@ -5,12 +5,11 @@ Logging App for TEF Receiver on Android Smartphones
 
 
 
-## Version 2.4 (only works from TEF Firmware from v2.11.21 and Android Smartphones!)
+## Version 3.0 (only works from TEF Firmware from v2.11.23 and Android Smartphones!)
 
-- Design and function is now compatible with Android 15
-- Radio text can be optionally switched on
-- Long press on the checkboxes of the CSV files selects or deselects all files
-- Minor code optimizations
+- Added remote functions for TEF (activate in menue): Freq up/down - Search up/down - Auto Scan on/off - Frequency input (longer hold auto scan) 
+- Correction of the status bar and gps display
+
 
 ## Installation notes:
 
@@ -36,6 +35,14 @@ Logging App for TEF Receiver on Android Smartphones
 - Individual files are merged before uploading
 
 ## History: 
+
+
+### Version 2.4 (only works from TEF Firmware from v2.11.21 and Android Smartphones!)
+
+- Design and function is now compatible with Android 15
+- Radio text can be optionally switched on
+- Long press on the checkboxes of the CSV files selects or deselects all files
+- Minor code optimizations
 
 ### Version 2.3 (only works from TEF Firmware from v2.11.21 and Android Smartphones!)
 
