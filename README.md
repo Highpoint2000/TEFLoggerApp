@@ -1,7 +1,8 @@
 # TEF Logger App
-Logging App for TEF Receiver on Android Smartphones
+Interactive Logging App for TEF Receiver on Android Smartphones
 
-![image](https://github.com/user-attachments/assets/468abcc6-568a-4aa6-a578-804455f57ba7)
+![image](https://github.com/user-attachments/assets/7a540009-8664-4e71-a0f5-145fc6d9934f)
+
 
 
 
@@ -23,6 +24,8 @@ Logging App for TEF Receiver on Android Smartphones
 
 - TEF receiver and smartphone must be in the same WLAN or connected via the hotspot
 - As soon as data is received from the TEF, it will be shown on the display
+- If there are several TEF receivers in the network, the correct one can be selected in the menu under TEF Source
+- The remote control functions for TEF can be activated/deactivated via the menu (TEF Remote): Freq up/down – Search up/down – Auto scan on/off – Frequency entry (long press Auto scan)
 - If GPS is switched on and has reception, the GPS data is shown on the display
 - Tap 'MAN LOG' to log data manually, long-press the button to activate AUTO-Logging, the log data is written to a CSV file in URDS format
 - A click on TX Map in the top bar opens the map which shows the identified stations, a click on GPS DATA switches back again
@@ -35,7 +38,6 @@ Logging App for TEF Receiver on Android Smartphones
 - Individual files are merged before uploading
 
 ## History: 
-
 
 ### Version 2.4 (only works from TEF Firmware from v2.11.21 and Android Smartphones!)
 
