@@ -4,13 +4,11 @@ Interactive Logging App for TEF Receiver on Android Smartphones (Compatible from
 ![image](https://github.com/user-attachments/assets/7a540009-8664-4e71-a0f5-145fc6d9934f)
 
 
+## Version 3.1 (only works from TEF Firmware from v2.11.23 and Android Smartphones!)
 
-
-## Version 3.0 (only works from TEF Firmware from v2.11.23 and Android Smartphones!)
-
-- Added remote functions for TEF (activate in menue): Freq up/down - Search up/down - Auto Scan on/off - Frequency input (longer hold auto scan) 
-- Correction of the status bar and gps display
-- TEF type and firmware version integrated into URDS upload file
+- Coordinates are rounded to 6 decimal places
+- After starting/restarting the app, you will be asked whether the CSV file should be recreated or the last one should be continued
+- Fixed error when processing TEF time in 12h format (Error writing to log file: index: 2, Size: 1)
 
 ## Installation notes:
 
@@ -38,6 +36,12 @@ Interactive Logging App for TEF Receiver on Android Smartphones (Compatible from
 - Individual files are merged before uploading
 
 ## History: 
+
+### Version 3.0 (only works from TEF Firmware from v2.11.23 and Android Smartphones!)
+
+- Added remote functions for TEF (activate in menue): Freq up/down - Search up/down - Auto Scan on/off - Frequency input (longer hold auto scan) 
+- Correction of the status bar and gps display
+- TEF type and firmware version integrated into URDS upload file
 
 ### Version 2.4 (only works from TEF Firmware from v2.11.21 and Android Smartphones!)
 
