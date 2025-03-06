@@ -4,11 +4,9 @@ Interactive Logging App for TEF Receiver on Android Smartphones (Compatible from
 ![image](https://github.com/user-attachments/assets/7a540009-8664-4e71-a0f5-145fc6d9934f)
 
 
-## Version 3.1 (only works from TEF Firmware from v2.11.23 and Android Smartphones!)
+## Version 3.2 (only works from TEF Firmware from v2.11.23 and Android Smartphones!)
 
-- Coordinates are rounded to 6 decimal places
-- After starting/restarting the app, you will be asked whether the CSV file should be recreated or the last one should be continued
-- Fixed error when processing TEF time in 12h format (Error writing to log file: index: 2, Size: 1)
+- incorrect height corrected across the board
 
 ## Installation notes:
 
@@ -36,6 +34,12 @@ Interactive Logging App for TEF Receiver on Android Smartphones (Compatible from
 - Individual files are merged before uploading
 
 ## History: 
+
+### Version 3.1 (only works from TEF Firmware from v2.11.23 and Android Smartphones!)
+
+- Coordinates are rounded to 6 decimal places
+- After starting/restarting the app, you will be asked whether the CSV file should be recreated or the last one should be continued
+- Fixed error when processing TEF time in 12h format (Error writing to log file: index: 2, Size: 1)
 
 ### Version 3.0 (only works from TEF Firmware from v2.11.23 and Android Smartphones!)
 
