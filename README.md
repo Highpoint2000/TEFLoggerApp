@@ -1,12 +1,16 @@
 # TEF Logger App
 Interactive Logging App for TEF Receiver on Android Smartphones (Compatible from Android 9)
 
-![image](https://github.com/user-attachments/assets/7a540009-8664-4e71-a0f5-145fc6d9934f)
+![image](https://github.com/user-attachments/assets/d87ac487-1f2f-42ef-bcee-7444bbc6a70c)
 
 
-## Version 3.2 (only works from TEF Firmware from v2.11.23 and Android Smartphones!)
 
-- incorrect height corrected across the board
+### Version 3.3 (only works from TEF Firmware from v2.11.23 and Android Smartphones!)
+
+- Station name from DB is now displayed
+- faster algorithm for determining station data ith PI Code received
+- additional, larger display of the received station, location and distance in landscape mode
+- query to toggle the auto log mode when starting/stopping the auto scan mode
 
 ## Installation notes:
 
@@ -34,6 +38,10 @@ Interactive Logging App for TEF Receiver on Android Smartphones (Compatible from
 - Individual files are merged before uploading
 
 ## History: 
+
+### Version 3.2 (only works from TEF Firmware from v2.11.23 and Android Smartphones!)
+
+- incorrect height corrected across the board
 
 ### Version 3.1 (only works from TEF Firmware from v2.11.23 and Android Smartphones!)
 
