@@ -9,7 +9,7 @@ Interactive Logging App for TEF Receiver on Android Smartphones (Compatible from
 ### Version 3.3 (only works from TEF Firmware from v2.11.23 and Android Smartphones!)
 
 - Station name from DB is now displayed
-- faster algorithm for determining station data ith PI Code received
+- faster algorithm for determining station data if PI Code received
 - additional, larger display of the received station, location and distance in landscape mode
 - query to toggle the auto log mode when starting/stopping the auto scan mode
 
