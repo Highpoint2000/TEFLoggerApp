@@ -7,6 +7,7 @@ Interactive Logging App for TEF Receiver on Android Smartphones (Compatible from
 
 - Revision of the station detection algorithm
 - Implementation of a caching mode for the database data to enable offline logging (see menu item "Rebuild Cache")
+- Underscores added in PS information
 
 ## Installation notes:
 
