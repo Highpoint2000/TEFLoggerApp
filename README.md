@@ -3,15 +3,10 @@ Interactive Logging App for TEF Receiver on Android Smartphones (Compatible from
 
 ![image](https://github.com/user-attachments/assets/1852affa-ddb2-4494-a6ca-6f81ca6f6328)
 
+### Version 3.4 (only works from TEF Firmware from v2.11.23 and Android Smartphones!)
 
-
-
-### Version 3.3 (only works from TEF Firmware from v2.11.23 and Android Smartphones!)
-
-- Station name from DB is now displayed
-- faster algorithm for determining station data if PI Code received
-- additional, larger display of the received station, location and distance in landscape mode
-- query to toggle the auto log mode when starting/stopping the auto scan mode
+- Revision of the station detection algorithm
+- Implementation of a caching mode for the database data to enable offline logging (see menu item "Rebuild Cache")
 
 ## Installation notes:
 
@@ -37,8 +32,16 @@ Interactive Logging App for TEF Receiver on Android Smartphones (Compatible from
 - Copied CSV files are located in the /Downloads/URDS folder on the smartphone
 - The app is able to continue logging in the background. To do this, you may need to adjust the energy saving options in your smartphone!
 - Individual files are merged before uploading
+- To use the app offline (e.g. when roaming abroad), the database for the frequency range 87.5-108 MHz can be completely downloaded via the menu option "Rebuild Cache")
 
 ## History: 
+
+### Version 3.3 (only works from TEF Firmware from v2.11.23 and Android Smartphones!)
+
+- Station name from DB is now displayed
+- faster algorithm for determining station data if PI Code received
+- additional, larger display of the received station, location and distance in landscape mode
+- query to toggle the auto log mode when starting/stopping the auto scan mode
 
 ### Version 3.2 (only works from TEF Firmware from v2.11.23 and Android Smartphones!)
 
