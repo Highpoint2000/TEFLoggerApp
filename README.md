@@ -11,7 +11,7 @@ Interactive Logging App for TEF Receiver on Android Smartphones (Compatible from
 
 ## Installation notes:
 
-1. Install the newest TEF Firmware
+1. Install the newest TEF Firmware from (here)[https://github.com/PE5PVB/TEF6686_ESP32/releases]
 2. Download the latest apk File 
 3. Install the apk on your smartphone with paket manager
 4. Confirm GPS access
