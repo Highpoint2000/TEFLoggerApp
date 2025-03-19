@@ -11,8 +11,8 @@ Interactive Logging App for TEF Receiver on Android Smartphones (Compatible from
 
 ## Installation notes:
 
-1. Install new TEF Firmware from [here](https://github.com/Highpoint2000/TEFLoggerApp/tree/main/TEF_Firmware)
-2. [Download](https://raw.githubusercontent.com/Highpoint2000/TEFLoggerApp/main/TEFLogger_2.4.apk) the last apk 
+1. Install new TEF Firmware
+2. [Download](https://raw.githubusercontent.com/Highpoint2000/TEFLoggerApp/main/TEFLogger_2.5.apk) the last apk 
 3. Install the apk on your smartphone with paket manager
 4. Confirm GPS access
 5. Check your energy saving settings
