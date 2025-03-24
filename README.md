@@ -3,7 +3,7 @@ Interactive Logging App for TEF Receiver on Android Smartphones (Compatible from
 
 ![image](https://github.com/user-attachments/assets/1852affa-ddb2-4494-a6ca-6f81ca6f6328)
 
-### Version 3.7 (only works from TEF Firmware from v2.11.23 and Android Smartphones!)
+### Version 3.6 (only works from TEF Firmware from v2.11.23 and Android Smartphones!)
 
 Bug fixes and code improvements:
 - Crash bug from version 3.5 fixed
