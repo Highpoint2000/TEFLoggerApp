@@ -3,9 +3,10 @@ Interactive Logging App for TEF Receiver on Android Smartphones (Compatible from
 
 ![image](https://github.com/user-attachments/assets/1852affa-ddb2-4494-a6ca-6f81ca6f6328)
 
-## Version 3.61 (only works from TEF Firmware from v2.11.23 and Android Smartphones!)
+## Version 3.7 (only works from TEF Firmware from v2.11.23 and Android Smartphones!)
 
-- Crash bug from version 3.6 fixed
+- new menu function to set the map radius around the current coordinates to better identify the possible transmission locations
+- removed new update message when rotating the display
 
 ## Installation notes:
 
@@ -35,6 +36,10 @@ Interactive Logging App for TEF Receiver on Android Smartphones (Compatible from
 - The TEF Rename menu item can be used to assign a name to the currently selected IP address
 
 ## History: 
+
+### Version 3.61 (only works from TEF Firmware from v2.11.23 and Android Smartphones!)
+
+- Crash bug from version 3.6 fixed
 
 ### Version 3.6 (only works from TEF Firmware from v2.11.23 and Android Smartphones!)
 
