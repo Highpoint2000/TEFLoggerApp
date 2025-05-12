@@ -26,7 +26,7 @@ Interactive Logging App for TEF Receiver on Android Smartphones (Compatible from
 - Tap 'MAN LOG' to log data manually, long-press the button to activate AUTO-Logging, the log data is written to a CSV file in URDS format
 - A click on TX Map in the top bar opens the map which shows the identified stations, a click on GPS DATA switches back again
 - You can activate a confirmation tone or vibration for logging using the three points at the top right (menu selection)
-- You can switch between the light and dark design using the menu
+- You can switch between the light and dark design and the display of RT and AF (with click function) by activating it in the menu
 - The Operations menu item gives you access to the upload and copy functions
 - Valid FMLIST data (OMID + email address) must be entered for the upload
 - Copied CSV files are located in the /Downloads/URDS folder on the smartphone
