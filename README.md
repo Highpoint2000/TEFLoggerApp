@@ -3,15 +3,15 @@ Interactive Logging App for TEF Receiver on Android Smartphones (Compatible from
 
 ![image](https://github.com/user-attachments/assets/1852affa-ddb2-4494-a6ca-6f81ca6f6328)
 
-## Version 3.72 (only works on Android Smartphones!)
+## Version 3.73 (only works on Android Smartphones!)
 
-- Design adjustments for Android 15
-- Display of Alternative Frequencies (AF) with click function added
+- More design adjustments for Android 15
+- Counter for #Pi #PS #rawPi added
 
 ## Installation notes:
 
 1. Install the newest TEF Firmware from [here](https://github.com/PE5PVB/TEF6686_ESP32/releases)
-2. [Download](https://raw.githubusercontent.com/Highpoint2000/TEFLoggerApp/main/TEFLogger_3.72.apk) the latest apk file 
+2. [Download](https://raw.githubusercontent.com/Highpoint2000/TEFLoggerApp/main/TEFLogger_3.73.apk) the latest apk file 
 3. Install the apk on your smartphone with paket manager
 4. Confirm GPS access
 5. Check your energy saving settings
@@ -36,6 +36,11 @@ Interactive Logging App for TEF Receiver on Android Smartphones (Compatible from
 - The TEF Rename menu item can be used to assign a name to the currently selected IP address
 
 ## History: 
+
+## Version 3.72 (only works on Android Smartphones!)
+
+- Design adjustments for Android 15
+- Display of Alternative Frequencies (AF) with click function added
 
 ### Version 3.7 (only works from TEF Firmware from v2.11.23 and Android Smartphones!)
 
