@@ -3,7 +3,7 @@ Interactive Logging App for TEF Receiver on Android Smartphones (Compatible from
 
 ![image](https://github.com/user-attachments/assets/1852affa-ddb2-4494-a6ca-6f81ca6f6328)
 
-## Version 3.8 (only works on Android Smartphones!)
+## Version 3.80 (only works on Android Smartphones!)
 
 - Station logo display added
 - TX detection algorithm updated and Database query speeds up
