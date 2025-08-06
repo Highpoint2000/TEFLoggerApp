@@ -5,9 +5,9 @@ Interactive Logging App for TEF Receiver on Android Smartphones (Compatible from
 
 ## Version 3.8 (only works on Android Smartphones!)
 
-- TX detection algorithm updated
-- Database query speeds up
-- Improved detection and switching of multiple TEF devices
+- Station logo display added
+- TX detection algorithm updated and Database query speeds up
+- Improved detection and switching of TEF devices
 - Support for GPS positioning data via Wi-Fi
 
 ## Installation notes:
@@ -36,6 +36,7 @@ Interactive Logging App for TEF Receiver on Android Smartphones (Compatible from
 - Individual files are merged before uploading
 - To use the app offline (e.g. when roaming abroad), the database for the frequency range 87.5-108 MHz can be completely downloaded via the menu option "Rebuild Cache")
 - The TEF Rename menu item can be used to assign a name to the currently selected IP address
+- Station logo display can be switched on or off via menu function
 
 ## History: 
 
