@@ -40,27 +40,27 @@ Interactive Logging App for TEF Receiver on Android Smartphones (Compatible from
 
 ## History: 
 
-### Version 3.73
+### Version 3.73 [Download](https://raw.githubusercontent.com/Highpoint2000/TEFLoggerApp/refs/heads/main/Archive/TEFLogger_3.73.apk)
 
 - More design adjustments for Android 15
 - Counter for #Pi #PS #rawPi added
 
-### Version 3.72 
+### Version 3.72 [Download](https://raw.githubusercontent.com/Highpoint2000/TEFLoggerApp/refs/heads/main/Archive/TEFLogger_3.72.apk)
 
 - Design adjustments for Android 15
 - Display of Alternative Frequencies (AF) with click function added
 
-### Version 3.7 (only works from TEF Firmware from v2.11.23)
+### Version 3.7 (only works from TEF Firmware from v2.11.23) [Download](https://raw.githubusercontent.com/Highpoint2000/TEFLoggerApp/refs/heads/main/Archive/TEFLogger_3.71.apk)
 
 - new menu function to set the map radius around the current coordinates to better identify the possible transmission locations
 - removed new update message when rotating the display
 
 
-### Version 3.61 (only works from TEF Firmware from v2.11.23)
+### Version 3.61 (only works from TEF Firmware from v2.11.23) [Download](https://raw.githubusercontent.com/Highpoint2000/TEFLoggerApp/refs/heads/main/Archive/TEFLogger_3.61.apk)
 
 - Crash bug from version 3.6 fixed
 
-### Version 3.6 (only works from TEF Firmware from v2.11.23)
+### Version 3.6 (only works from TEF Firmware from v2.11.23) [Download](https://raw.githubusercontent.com/Highpoint2000/TEFLoggerApp/refs/heads/main/Archive/TEFLogger_3.6.apk)
 
 Bug fixes and code improvements:
 - Crash bug from version 3.5 fixed
@@ -68,53 +68,53 @@ Bug fixes and code improvements:
 - Menu selection for Sound, Vibration, and RT is restored when rotating the display
 - CSV query is now performed every time Auto Log is started
 
-### Version 3.5 (only works from TEF Firmware from v2.11.23)
+### Version 3.5 (only works from TEF Firmware from v2.11.23) [Download](https://raw.githubusercontent.com/Highpoint2000/TEFLoggerApp/refs/heads/main/Archive/TEFLogger_3.5.apk)
 
 - Pi-Code 0000 is now being processed
 - The TEF Rename menu item can be used to assign a name to the currently selected IP address
 
 
-### Version 3.4 (only works from TEF Firmware from v2.11.23)
+### Version 3.4 (only works from TEF Firmware from v2.11.23) [Download](https://raw.githubusercontent.com/Highpoint2000/TEFLoggerApp/refs/heads/main/Archive/TEFLogger_3.4.apk)
 
 - Revision of the station detection algorithm
 - Implementation of a caching mode for the database data to enable offline logging (see menu item "Rebuild Cache")
 - Underscores added in PS information
 
-### Version 3.3 (only works from TEF Firmware from v2.11.23)
+### Version 3.3 (only works from TEF Firmware from v2.11.23) [Download](https://raw.githubusercontent.com/Highpoint2000/TEFLoggerApp/refs/heads/main/Archive/TEFLogger_3.3.apk)
 
 - Station name from DB is now displayed
 - faster algorithm for determining station data if PI Code received
 - additional, larger display of the received station, location and distance in landscape mode
 - query to toggle the auto log mode when starting/stopping the auto scan mode
 
-### Version 3.2 (only works from TEF Firmware from v2.11.23!)
+### Version 3.2 (only works from TEF Firmware from v2.11.23!) [Download](https://raw.githubusercontent.com/Highpoint2000/TEFLoggerApp/refs/heads/main/Archive/TEFLogger_3.2.apk)
 
 - incorrect height corrected across the board
 
-### Version 3.1 (only works from TEF Firmware from v2.11.23)
+### Version 3.1 (only works from TEF Firmware from v2.11.23) [Download](https://raw.githubusercontent.com/Highpoint2000/TEFLoggerApp/refs/heads/main/Archive/TEFLogger_3.1.apk)
 
 - Coordinates are rounded to 6 decimal places
 - After starting/restarting the app, you will be asked whether the CSV file should be recreated or the last one should be continued
 - Fixed error when processing TEF time in 12h format (Error writing to log file: index: 2, Size: 1)
 
-### Version 3.0 (only works from TEF Firmware from v2.11.23)
+### Version 3.0 (only works from TEF Firmware from v2.11.23) [Download](https://raw.githubusercontent.com/Highpoint2000/TEFLoggerApp/refs/heads/main/Archive/TEFLogger_3.0.apk)
 
 - Added remote functions for TEF (activate in menue): Freq up/down - Search up/down - Auto Scan on/off - Frequency input (longer hold auto scan) 
 - Correction of the status bar and gps display
 - TEF type and firmware version integrated into URDS upload file
 
-### Version 2.4 (only works from TEF Firmware from v2.11.21)
+### Version 2.4 (only works from TEF Firmware from v2.11.21) [Download](https://raw.githubusercontent.com/Highpoint2000/TEFLoggerApp/refs/heads/main/Archive/TEFLogger_2.4.apk)
 
 - Design and function is now compatible with Android 15
 - Radio text can be optionally switched on
 - Long press on the checkboxes of the CSV files selects or deselects all files
 - Minor code optimizations
 
-### Version 2.3 (only works from TEF Firmware from v2.11.21)
+### Version 2.3 (only works from TEF Firmware from v2.11.21) [Download](https://raw.githubusercontent.com/Highpoint2000/TEFLoggerApp/refs/heads/main/Archive/TEFLogger_2.3.apk)
 
 - Added source selection for multiple TEF receivers
 
-### Version 2.2 (only works from TEF Firmware from v2.11.21)
+### Version 2.2 (only works from TEF Firmware from v2.11.21) [Download](https://raw.githubusercontent.com/Highpoint2000/TEFLoggerApp/refs/heads/main/Archive/TEFLogger_2.2.apk)
 
 - Improved background mode
 - Bug with the mono/stereo flag fixed
@@ -123,7 +123,7 @@ Bug fixes and code improvements:
 - Log button only becomes active when GPS data is received
 - Added dbµV flag
 
-### Version 2.1 (only works from TEF Firmware from v2.11.21)
+### Version 2.1 (only works from TEF Firmware from v2.11.21) [Download](https://raw.githubusercontent.com/Highpoint2000/TEFLoggerApp/refs/heads/main/Archive/TEFLogger_2.1.apk)
 
 - Improved background mode
 - Always on display
@@ -131,7 +131,7 @@ Bug fixes and code improvements:
 - The map now remains activated even when the display is rotated
 - Other bug fixes and design adjustments
 
-### Version 2.0 (only works from TEF Firmware from v2.11.21)
+### Version 2.0 (only works from TEF Firmware from v2.11.21) [Download](https://raw.githubusercontent.com/Highpoint2000/TEFLoggerApp/refs/heads/main/Archive/TEFLogger_2.0.apk)
 
 - URDS Uploader integrated with copy functions
 - MAP view of identified stations
