@@ -1,8 +1,7 @@
 # TEF Logger App
 Interactive Logging App for TEF Receiver on Android Smartphones (Compatible from Android 9)
 
-<img width="1158" height="1061" alt="Screenshot" src="https://github.com/user-attachments/assets/b193f7d7-80a2-4e7d-9491-c4ae01f4bb7e" />
-
+![image](https://github.com/user-attachments/assets/1852affa-ddb2-4494-a6ca-6f81ca6f6328)
 
 ## Version 3.81 (only works on Android Smartphones!)
 
@@ -11,7 +10,7 @@ Interactive Logging App for TEF Receiver on Android Smartphones (Compatible from
 ## Installation notes:
 
 1. Install the newest TEF Firmware from [here](https://github.com/PE5PVB/TEF6686_ESP32/releases)
-2. [Download](https://github.com/Highpoint2000/TEFLoggerApp/raw/refs/heads/main/TEFLogger_3.81.apk) the latest apk file 
+2. [Download](https://github.com/Highpoint2000/TEFLoggerApp/raw/refs/heads/main/TEFLogger_3.81) the latest apk file 
 3. Install the apk on your smartphone with paket manager
 4. Confirm GPS access
 5. Check your energy saving settings
