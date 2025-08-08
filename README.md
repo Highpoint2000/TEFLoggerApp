@@ -3,17 +3,14 @@ Interactive Logging App for TEF Receiver on Android Smartphones (Compatible from
 
 ![image](https://github.com/user-attachments/assets/1852affa-ddb2-4494-a6ca-6f81ca6f6328)
 
-## Version 3.80 (only works on Android Smartphones!)
+## Version 3.81 (only works on Android Smartphones!)
 
-- Station logo display added
-- TX detection algorithm updated and Database query speeds up
-- Improved detection and switching of TEF devices
-- Support for GPS positioning data via Wi-Fi
+- Added display of station logos in SVG format
 
 ## Installation notes:
 
 1. Install the newest TEF Firmware from [here](https://github.com/PE5PVB/TEF6686_ESP32/releases)
-2. [Download](https://github.com/Highpoint2000/TEFLoggerApp/raw/refs/heads/main/TEFLogger_3.80.apk) the latest apk file 
+2. [Download](https://github.com/Highpoint2000/TEFLoggerApp/raw/refs/heads/main/TEFLogger_3.81.apk) the latest apk file 
 3. Install the apk on your smartphone with paket manager
 4. Confirm GPS access
 5. Check your energy saving settings
@@ -39,6 +36,13 @@ Interactive Logging App for TEF Receiver on Android Smartphones (Compatible from
 - Station logo display can be switched on or off via menu function
 
 ## History: 
+
+### Version 3.80 (only works on Android Smartphones!)
+
+- Station logo display added
+- TX detection algorithm updated and Database query speeds up
+- Improved detection and switching of TEF devices
+- Support for GPS positioning data via Wi-Fi
 
 ### Version 3.73
 
