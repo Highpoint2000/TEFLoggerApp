@@ -5,7 +5,7 @@ Interactive Logging App for TEF Receiver on Android Smartphones (Compatible from
 
 ## Version 3.81 (only works on Android Smartphones!)
 
-- Added display of station logos in SVG format
+- Added display of station logos in SVG format and corrected position
 
 ## Installation notes:
 
