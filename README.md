@@ -3,7 +3,7 @@ Interactive Logging App for TEF Receiver on Android Smartphones (Compatible from
 
 <img width="1158" height="1061" alt="Screenshot" src="https://github.com/user-attachments/assets/9e6f62f5-97a9-4aad-b75b-7afa4885593b" />
 
-## Version 3.9 (only works on Android Smartphones!)
+## Version 3.90 (only works on Android Smartphones!)
 
 - Logos can be enlarged, reduced, and moved (see description!)
 - Local caching of logos for faster loading
