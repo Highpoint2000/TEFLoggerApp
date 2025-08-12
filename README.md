@@ -38,7 +38,7 @@ Interactive Logging App for TEF Receiver on Android Smartphones (Compatible from
 - To use the app offline (e.g. when roaming abroad), the database for the frequency range 87.5-108 MHz can be completely downloaded via the menu option "Rebuild Cache")
 - The TEF Rename menu item can be used to assign a name to the currently selected IP address
 - Station logo display can be switched on or off via menu function
-- Holding the Station logo down puts it into wiggle mode. You can then zoom in/out using the +/- buttons or drag and drop. A single tap on the logo returns it to its normal size, and a double tap returns it to its original position.
+- Holding the Station logo down puts it into wiggle mode. You can then zoom in/out using the +/- buttons or drag and drop. A single tap on the logo returns it to its normal size, and a double tap returns it to its original position. Pressing and holding again will exit the editing mode.
 - The GPS data can be hidden via the menu to create more space for displaying AF and RT as well as larger logos
 - PTY data can be displayed via the menu
 
