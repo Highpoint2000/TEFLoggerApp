@@ -1,7 +1,8 @@
 # TEF Logger App
 Interactive Logging App for TEF Receiver on Android Smartphones (Compatible from Android 9)
 
-<img width="1158" height="1061" alt="Screenshot" src="https://github.com/user-attachments/assets/9e6f62f5-97a9-4aad-b75b-7afa4885593b" />
+<img width="970" height="725" alt="image" src="https://github.com/user-attachments/assets/f935128b-3ccd-4c2b-9b7a-5fa21f6ab044" />
+
 
 ## Version 3.90 (only works on Android Smartphones!)
 
