@@ -10,7 +10,7 @@ Interactive Logging App for TEF Receiver on Android Smartphones (Compatible from
 - Local caching of logos for faster loading
 - GPS data display can be disabled via the menu
 - PTY data can be displayed
-- Symbolbar added to display RDS, Stereo, TP, and TA
+- Toolbar added to display RDS, Stereo, TP, and TA
 
 ## Installation notes:
 
