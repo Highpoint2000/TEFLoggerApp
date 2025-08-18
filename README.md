@@ -3,19 +3,19 @@ Interactive Logging App for TEF Receiver on Android Smartphones (Compatible from
 
 <img width="970" height="725" alt="image" src="https://github.com/user-attachments/assets/f935128b-3ccd-4c2b-9b7a-5fa21f6ab044" />
 
+## Version 4.00 (only works on Android Smartphones!)
 
-## Version 3.90 (only works on Android Smartphones!)
-
-- Logos can be enlarged, reduced, and moved (see description!)
-- Local caching of logos for faster loading
-- GPS data display can be disabled via the menu
-- PTY data can be displayed
-- Toolbar added to display RDS, Stereo, TP, and TA
+- URDS Mapviewer integrated [Download Tutorial](https://github.com/Highpoint2000/TEFLoggerApp/blob/main/Tutorials/TEF_Logger_tutorial_for_URDS_MAP_function_english.pdf) 
+- Background notification revised, new notification tone
+- Improved internet connection check
+- GPS processing adjusted
+- Extensive bug fixing and performance improvement
+- PTY alarm message deactivated
 
 ## Installation notes:
 
 1. Install the newest TEF Firmware from [here](https://github.com/PE5PVB/TEF6686_ESP32/releases)
-2. [Download](https://github.com/Highpoint2000/TEFLoggerApp/raw/refs/heads/main/TEFLogger_3.90.apk) the latest apk file 
+2. [Download](https://github.com/Highpoint2000/TEFLoggerApp/raw/refs/heads/main/TEFLogger_4.00.apk) the latest apk file 
 3. Install the apk on your smartphone with paket manager
 4. Confirm GPS access
 5. Check your energy saving settings
@@ -42,8 +42,18 @@ Interactive Logging App for TEF Receiver on Android Smartphones (Compatible from
 - Holding the Station logo down puts it into wiggle mode. You can then zoom in/out using the +/- buttons or drag and drop. A single tap on the logo returns it to its normal size, and a double tap returns it to its original position. Pressing and holding again will exit the editing mode.
 - The GPS data can be hidden via the menu to create more space for displaying AF and RT as well as larger logos
 - PTY data can be displayed via the menu
+- URDS Mapviewer can be start under URDS Options [Download Tutorial](https://github.com/Highpoint2000/TEFLoggerApp/blob/main/Tutorials/TEF_Logger_tutorial_for_URDS_MAP_function_english.pdf) 
+
 
 ## History: 
+
+### Version 3.90 (only works on Android Smartphones!)
+
+- Logos can be enlarged, reduced, and moved (see description!)
+- Local caching of logos for faster loading
+- GPS data display can be disabled via the menu
+- PTY data can be displayed
+- Toolbar added to display RDS, Stereo, TP, and TA
 
 ### Version 3.81 (only works on Android Smartphones!)
 
