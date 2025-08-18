@@ -11,6 +11,7 @@ Interactive Logging App for TEF Receiver on Android Smartphones (Compatible from
 - GPS processing adjusted
 - Extensive bug fixing and performance improvement
 - PTY alarm message deactivated
+- Smaller design work
 
 ## Installation notes:
 
