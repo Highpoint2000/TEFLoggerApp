@@ -6,18 +6,13 @@ Interactive Logging App for TEF Receiver on Android Smartphones (Compatible from
 
 ## Version 4.00 (only works on Android Smartphones!)
 
-- URDS Mapviewer integrated [Download Tutorial](https://github.com/Highpoint2000/TEFLoggerApp/blob/main/Tutorials/TEF_Logger_tutorial_for_URDS_MAP_function_english.pdf) 
-- Background notification revised, new notification tone
-- Improved internet connection check
-- GPS processing adjusted
-- Extensive bug fixing and performance improvement
-- PTY alarm message deactivated
-- Smaller design work
+- Added info button with location selection when multiple stations are found
+- Added station ID display with editing option
 
 ## Installation notes:
 
 1. Install the newest TEF Firmware from [here](https://github.com/PE5PVB/TEF6686_ESP32/releases)
-2. [Download](https://github.com/Highpoint2000/TEFLoggerApp/raw/refs/heads/main/TEFLogger_4.00.apk) the latest apk file 
+2. [Download](https://github.com/Highpoint2000/TEFLoggerApp/raw/refs/heads/main/TEFLogger_4.1.apk) the latest apk file 
 3. Install the apk on your smartphone with paket manager
 4. Confirm GPS access
 5. Check your energy saving settings
@@ -45,9 +40,21 @@ Interactive Logging App for TEF Receiver on Android Smartphones (Compatible from
 - The GPS data can be hidden via the menu to create more space for displaying AF and RT as well as larger logos
 - PTY data can be displayed via the menu
 - URDS Mapviewer can be start under URDS Options [Download Tutorial](https://github.com/Highpoint2000/TEFLoggerApp/blob/main/Tutorials/TEF_Logger_tutorial_for_URDS_MAP_function_english.pdf) 
+- If multiple stations with the same PI code are found on a frequency, this is indicated in the upper status bar with a +N number. Clicking on it allows you to select the correct station. All parameters, including the map view, are updated.
+- The corresponding station ID can be displayed via the menu. A pencil symbol is located behind the number, which allows you to change the ID directly. The information about the current reception is then updated.
 
 
 ## History: 
+
+### Version 4.00 (only works on Android Smartphones!)
+
+- URDS Mapviewer integrated [Download Tutorial](https://github.com/Highpoint2000/TEFLoggerApp/blob/main/Tutorials/TEF_Logger_tutorial_for_URDS_MAP_function_english.pdf) 
+- Background notification revised, new notification tone
+- Improved internet connection check
+- GPS processing adjusted
+- Extensive bug fixing and performance improvement
+- PTY alarm message deactivated
+- Smaller design work
 
 ### Version 3.90 (only works on Android Smartphones!)
 
