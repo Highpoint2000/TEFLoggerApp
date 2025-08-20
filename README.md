@@ -5,15 +5,14 @@ Interactive Logging App for TEF Receiver on Android Smartphones (Compatible from
 
 
 
-## Version 4.1 (only works on Android Smartphones!)
+## Version 4.11 (HOTFIX VERSION - only works on Android Smartphones!)
 
-- Added info button with location selection when multiple stations are found
-- Added station ID display with editing option
+- Hotfix for broken Autolog mode in version 4.1
 
 ## Installation notes:
 
 1. Install the newest TEF Firmware from [here](https://github.com/PE5PVB/TEF6686_ESP32/releases)
-2. [Download](https://github.com/Highpoint2000/TEFLoggerApp/raw/refs/heads/main/TEFLogger_4.1.apk) the latest apk file 
+2. [Download](https://github.com/Highpoint2000/TEFLoggerApp/raw/refs/heads/main/TEFLogger_4.11.apk) the latest apk file 
 3. Install the apk on your smartphone with paket manager
 4. Confirm GPS access
 5. Check your energy saving settings
@@ -45,7 +44,12 @@ Interactive Logging App for TEF Receiver on Android Smartphones (Compatible from
 - The corresponding station ID can be displayed via the menu. A pencil symbol is located behind the number, which allows you to change the ID directly. The information about the current reception is then updated.
 
 
-## History: 
+## History:
+ 
+### Version 4.1 (only works on Android Smartphones!)
+
+- Added info button with location selection when multiple stations are found
+- Added station ID display with editing option
 
 ### Version 4.00 (only works on Android Smartphones!)
 
