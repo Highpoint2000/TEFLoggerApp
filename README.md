@@ -4,7 +4,7 @@ Interactive Logging App for TEF Receiver on Android Smartphones (Compatible from
 <img width="780" height="775" alt="image" src="https://github.com/user-attachments/assets/2d3bee77-fa7e-4390-9b58-44ccd2cc2222" />
 
 
-## Version 4.00 (only works on Android Smartphones!)
+## Version 4.1 (only works on Android Smartphones!)
 
 - Added info button with location selection when multiple stations are found
 - Added station ID display with editing option
@@ -40,7 +40,7 @@ Interactive Logging App for TEF Receiver on Android Smartphones (Compatible from
 - The GPS data can be hidden via the menu to create more space for displaying AF and RT as well as larger logos
 - PTY data can be displayed via the menu
 - URDS Mapviewer can be start under URDS Options [Download Tutorial](https://github.com/Highpoint2000/TEFLoggerApp/blob/main/Tutorials/TEF_Logger_tutorial_for_URDS_MAP_function_english.pdf) 
-- If multiple stations with the same PI code are found on a frequency, this is indicated in the upper status bar with a +N number. Clicking on it allows you to select the correct station. All parameters, including the map view, are updated.
+- If multiple stations with the same PI code are found on a frequency, this is displayed in the upper status bar with a +N number of alternative stations. Clicking on it allows you to select the correct station. All parameters, including the map view, are updated.
 - The corresponding station ID can be displayed via the menu. A pencil symbol is located behind the number, which allows you to change the ID directly. The information about the current reception is then updated.
 
 
