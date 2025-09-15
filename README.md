@@ -53,6 +53,7 @@ A tutorial für the new Live MAPVIEWER can be download [here](https://github.com
 - URDS Mapviewer can be start under URDS Options [Download Tutorial](https://github.com/Highpoint2000/TEFLoggerApp/blob/main/Tutorials/TEF_Logger_tutorial_for_URDS_MAP_function_english.pdf) 
 - If multiple stations with the same PI code are found on a frequency, this is displayed in the upper status bar with a +N number of alternative stations. Clicking on it allows you to select the correct station. All parameters, including the map view, are updated.
 - The corresponding station ID can be displayed via the menu. A pencil symbol is located behind the number, which allows you to change the ID directly. The information about the current reception is then updated.
+- tutorial für the new Live MAPVIEWER from Version 5.0 can be download [here](https://github.com/Highpoint2000/TEFLoggerApp/blob/main/Tutorials/TEF_Logger_tutorial_for_LIVE_MAP_function_english.pdf)
 
 
 ## History:
