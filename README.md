@@ -3,28 +3,15 @@ Interactive Logging App for TEF Receiver on Android Smartphones (Compatible from
 
 <img width="786" height="779" alt="image" src="https://github.com/user-attachments/assets/403e9a3e-ee25-4890-809a-b8779f48700b" />
 
+## Version 5.01
 
-
-## Version 5.0
-
-- New interactive map with caching mechanism added (preloaded tiles therefore also work offline!)
-- Tabular, distance-sorted list of all programs on a frequency
-- Display of the current position (red dot) and tracking marker (blue dots)
-- Map shows PI-identified (dashed line) and fully identified (solid line) stations with data
-- Clicking on a map marker -> Listing of all programs at the location with direct query of the frequency. Exiting lock mode (lock symbol) is done by clicking on the map
-- Streaming function for audio synchronization (after activating the play button -> click on the marker or selecting in the table) opens a live stream of the selected program
-- Changing identified locations or linking programs with station IDs for station identification in the log file
-- Log Ident function for continuously adopting and displaying changed station data
-- Checking the power saving mode when starting the program
-- Offline/online notification has been deactivated
-
-A tutorial für the new Live MAPVIEWER can be download [here](https://github.com/Highpoint2000/TEFLoggerApp/blob/main/Tutorials/TEF_Logger_tutorial_for_LIVE_MAP_function_english.pdf) 
+- Fixed truncated display of the remote control bar on certain smartphones
 
 
 ## Installation notes:
 
 1. Install the newest TEF Firmware from [here](https://github.com/PE5PVB/TEF6686_ESP32/releases)
-2. [Download](https://github.com/Highpoint2000/TEFLoggerApp/raw/refs/heads/main/TEFLogger_5.0.apk) the latest apk file 
+2. [Download](https://github.com/Highpoint2000/TEFLoggerApp/raw/refs/heads/main/TEFLogger_5.01.apk) the latest apk file 
 3. Install the apk on your smartphone with paket manager
 4. Confirm GPS access
 5. Check your energy saving settings
@@ -58,6 +45,21 @@ A tutorial für the new Live MAPVIEWER can be download [here](https://github.com
 
 
 ## History:
+
+### Version 5.0
+
+- New interactive map with caching mechanism added (preloaded tiles therefore also work offline!)
+- Tabular, distance-sorted list of all programs on a frequency
+- Display of the current position (red dot) and tracking marker (blue dots)
+- Map shows PI-identified (dashed line) and fully identified (solid line) stations with data
+- Clicking on a map marker -> Listing of all programs at the location with direct query of the frequency. Exiting lock mode (lock symbol) is done by clicking on the map
+- Streaming function for audio synchronization (after activating the play button -> click on the marker or selecting in the table) opens a live stream of the selected program
+- Changing identified locations or linking programs with station IDs for station identification in the log file
+- Log Ident function for continuously adopting and displaying changed station data
+- Checking the power saving mode when starting the program
+- Offline/online notification has been deactivated
+
+A tutorial für the new Live MAPVIEWER can be download [here](https://github.com/Highpoint2000/TEFLoggerApp/blob/main/Tutorials/TEF_Logger_tutorial_for_LIVE_MAP_function_english.pdf) 
 
 ### Version 4.11 (HOTFIX VERSION - only works on Android Smartphones!)
 
