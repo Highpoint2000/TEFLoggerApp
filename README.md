@@ -1,5 +1,5 @@
 # TEF Logger App
-Interactive Logging App for TEF Receiver on Android Smartphones (Compatible from Android 9)
+Interactive Logging App for TEF Receiver on Android Smartphones (Compatible from Android 8)
 
 <img width="786" height="779" alt="image" src="https://github.com/user-attachments/assets/403e9a3e-ee25-4890-809a-b8779f48700b" />
 
@@ -14,6 +14,14 @@ Interactive Logging App for TEF Receiver on Android Smartphones (Compatible from
 3. Install the apk on your smartphone with paket manager
 4. Confirm GPS access
 5. Check your energy saving settings
+
+## Tested on:
+
+- Samsung Galaxy S7 Edge with Android 8
+- Huawei P30 Pro with Android 11 / EMUI 12.0.0
+- Samsung Galaxy A13 with Android 14 / OneUI 6.1
+- Samsung Galaxy Tab A9+ with Android 15 / OneUI 7.0
+- Samsung Galaxy S24 Ultra with Android 16 / OneUI 8.0
 
 ## Notes: 
 
