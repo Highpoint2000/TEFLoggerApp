@@ -18,6 +18,7 @@ Interactive Logging App for TEF Receiver on Android Smartphones (Compatible from
 ## Tested on:
 
 - Samsung Galaxy S7 Edge with Android 8
+- Samsung Galaxy S8 with Android 9 / OneUI 1.0
 - Huawei P30 Pro with Android 11 / EMUI 12.0.0
 - Samsung Galaxy A13 with Android 14 / OneUI 6.1
 - Samsung Galaxy Tab A9+ with Android 15 / OneUI 7.0
