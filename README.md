@@ -7,6 +7,7 @@ Interactive Logging App for TEF Receiver on Android Smartphones (Compatible from
 
 - Mapcaching improved
 - Autozoom button adjusted
+- Double logging when rotating the display eliminated
 - GPS display activated at startup
 - File access permissions adjusted for supported Android versions
 - Further code optimizations to make the app more stable and performant
