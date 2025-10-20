@@ -33,10 +33,10 @@ Interactive Logging App for TEF Receiver on Android Smartphones (Compatible from
 - TEF receiver and smartphone must be in the same WLAN or connected via the hotspot
 - As soon as data is received from the TEF, it will be shown on the display
 - If there are several TEF receivers in the network, the correct one can be selected in the menu under TEF Source
-- The remote control functions for TEF can be activated/deactivated via the menu (TEF Remote): Freq up/down – Search up/down – Auto scan on/off – Frequency entry (long press Auto scan)
+- The remote control functions for TEF can be activated/deactivated via the menu (TEF Remote): Freq up/down – Search up/down – Auto scan on/off – Frequency entry (long press Auto scan an input: 991, 99.1, 99100 or 99.100)
 - If GPS is switched on and has reception, the GPS data is shown on the display
 - Tap 'MAN LOG' to log data manually, long-press the button to activate AUTO-Logging, the log data is written to a CSV file in URDS format
-- A click on TX Map in the top bar opens the map which shows the identified stations, a click on GPS DATA switches back again
+- A click on TX Map in the top bar opens the map which shows the identified stations, a click on GPS DATA switches back again. TX MAP tutorial for the new Live MAPVIEWER from Version 5.0 can be download [here](https://github.com/Highpoint2000/TEFLoggerApp/blob/main/Tutorials/TEF_Logger_tutorial_for_LIVE_MAP_function_english.pdf)
 - You can activate a confirmation tone or vibration for logging using the three points at the top right (menu selection)
 - You can switch between the light and dark design and the display of RT and AF (with click function) by activating it in the menu
 - The Operations menu item gives you access to the upload and copy functions
@@ -53,7 +53,6 @@ Interactive Logging App for TEF Receiver on Android Smartphones (Compatible from
 - URDS Mapviewer can be start under URDS Options [Download Tutorial](https://github.com/Highpoint2000/TEFLoggerApp/blob/main/Tutorials/TEF_Logger_tutorial_for_URDS_MAP_function_english.pdf) 
 - If multiple stations with the same PI code are found on a frequency, this is displayed in the upper status bar with a +N number of alternative stations. Clicking on it allows you to select the correct station. All parameters, including the map view, are updated.
 - The corresponding station ID can be displayed via the menu. A pencil symbol is located behind the number, which allows you to change the ID directly. The information about the current reception is then updated.
-- tutorial für the new Live MAPVIEWER from Version 5.0 can be download [here](https://github.com/Highpoint2000/TEFLoggerApp/blob/main/Tutorials/TEF_Logger_tutorial_for_LIVE_MAP_function_english.pdf)
 
 
 ## History:
