@@ -3,14 +3,12 @@ Interactive Logging App for TEF Receiver on Android Smartphones (Compatible from
 
 <img width="786" height="779" alt="image" src="https://github.com/user-attachments/assets/403e9a3e-ee25-4890-809a-b8779f48700b" />
 
-## Version 5.2 (update recommended for all systems!)
+## Version 5.21 (update recommended for all systems!)
 
-- Mapcaching improved
-- Autozoom button adjusted
-- Double logging when rotating the display eliminated
-- GPS display activated at startup
-- File access permissions adjusted for supported Android versions
-- Further code optimizations to make the app more stable and performant
+- Update notification for older devices adjusted
+- Manual frequency entry revised
+- Auto scan mode is reset when the connection is lost
+- minor adjustments
 
 ## Installation notes:
 
@@ -35,6 +33,15 @@ See the detailed usage guide in the Wiki:
 [https://github.com/Highpoint2000/TEFLoggerApp/wiki](https://github.com/Highpoint2000/TEFLoggerApp/wiki)
 
 ## History:
+
+### Version 5.2 (update recommended for all systems!)
+
+- Mapcaching improved
+- Autozoom button adjusted
+- Double logging when rotating the display eliminated
+- GPS display activated at startup
+- File access permissions adjusted for supported Android versions
+- Further code optimizations to make the app more stable and performant
 
 ### Version 5.1 (update recommended for all systems!)
 
