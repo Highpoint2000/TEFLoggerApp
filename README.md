@@ -3,17 +3,17 @@ Interactive Logging App for TEF Receiver on Android Smartphones (Compatible from
 
 <img width="786" height="779" alt="image" src="https://github.com/user-attachments/assets/403e9a3e-ee25-4890-809a-b8779f48700b" />
 
-## Version 5.21 (update recommended for all systems!)
+### Version 5.22 (update recommended for all systems!)
 
-- Update notification for older devices adjusted
-- Manual frequency entry revised
-- Auto scan mode is reset when the connection is lost
-- minor adjustments
+- Audio and/or vibration alarm sounds if TEF signal is lost after 10 seconds (repeats every 10 seconds)
+- GPS startup status corrected during initial installation
+- Various formatting adjustments
+- Minor code optimizations
 
 ## Installation notes:
 
 1. Install the newest TEF Firmware from [here](https://github.com/PE5PVB/TEF6686_ESP32/releases)
-2. [Download](https://github.com/Highpoint2000/TEFLoggerApp/raw/refs/heads/main/TEFLogger_5.21.apk) the latest apk file 
+2. [Download](https://github.com/Highpoint2000/TEFLoggerApp/raw/refs/heads/main/TEFLogger_5.22.apk) the latest apk file 
 3. Install the apk on your smartphone with paket manager
 4. Confirm GPS access
 5. Check your energy saving settings
@@ -36,6 +36,13 @@ See the detailed usage guide in the Wiki:
 [https://github.com/Highpoint2000/TEFLoggerApp/wiki](https://github.com/Highpoint2000/TEFLoggerApp/wiki)
 
 ## History:
+
+### Version 5.21 (update recommended for all systems!)
+
+- Update notification for older devices adjusted
+- Manual frequency entry revised
+- Auto scan mode is reset when the connection is lost
+- minor adjustments
 
 ### Version 5.2 (update recommended for all systems!)
 
