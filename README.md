@@ -28,6 +28,7 @@ Interactive Logging App for TEF Receiver on Android Smartphones (Compatible from
 - Samsung Galaxy Tab A 10.5 (2018) with Android 10 / OneUI 2.1
 - Samsung Galaxy A20e with Android 11 / OneUI 3.1
 - Samsung Galaxy A12 with Android 12 / OneUI 4.1
+- Samsung Galaxy Tab A7 10.4 with Android 12 / OneUI 4.1
 - Samsung Galaxy A51 with Android 13 / OneUI 5.1
 - Samsung Galaxy A13 with Android 14 / OneUI 6.1
 - Samsung Galaxy Tab A9+ with Android 15 / OneUI 7.0
