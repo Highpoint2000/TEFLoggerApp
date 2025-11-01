@@ -8,6 +8,7 @@ Interactive Logging App for TEF Receiver on Android Smartphones (Compatible from
 - Integrated display and direct download of beta versions (Activate in the menu!)
 - URDS Map now uses the same map set as the TX Map and is therefore capable of offline use
 
+
 ## Installation notes:
 
 1. Install the newest TEF Firmware from [here](https://github.com/PE5PVB/TEF6686_ESP32/releases)
