@@ -3,7 +3,7 @@ Interactive Logging App for TEF Receiver on Android Smartphones (Compatible from
 
 <img width="786" height="779" alt="image" src="https://github.com/user-attachments/assets/403e9a3e-ee25-4890-809a-b8779f48700b" />
 
-### Version 5.23 (update recommended for all systems!)
+### Version 5.3 (update recommended for all systems!)
 
 - Audio and/or vibration alarm sounds if TEF signal is lost after 10 seconds (repeats every 10 seconds / The alarm will only sound/vibrate if you have activated the respective function in the menu and AUTO LOG must be enable)
 - GPS startup status corrected during initial installation
