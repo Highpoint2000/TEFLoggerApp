@@ -3,7 +3,7 @@ Interactive Logging App for TEF Receiver on Android Smartphones (Compatible from
 
 <img width="786" height="779" alt="image" src="https://github.com/user-attachments/assets/403e9a3e-ee25-4890-809a-b8779f48700b" />
 
-### Version 5.22_BETA1
+### Version 5.23_BETA1
 
 - URDS Map now uses the same map set as the TX Map and is therefore capable of offline use.
 
