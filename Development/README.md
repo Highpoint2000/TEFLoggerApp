@@ -3,7 +3,7 @@ Interactive Logging App for TEF Receiver on Android Smartphones (Compatible from
 
 <img width="786" height="779" alt="image" src="https://github.com/user-attachments/assets/403e9a3e-ee25-4890-809a-b8779f48700b" />
 
-### Version 5.3_BETA2
+### Version 5.3_BETA3
 
 - Integrated display and direct download of beta versions (Activate in the menu!)
 - Display of changes in the update dialog
