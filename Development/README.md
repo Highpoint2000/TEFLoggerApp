@@ -10,7 +10,7 @@ Interactive Logging App for TEF Receiver on Android Smartphones (Compatible from
 - URDS Map now uses the same map set as the TX Map and is therefore capable of offline use
 - The Copy Button under URDS Options now has an export function and also allows sharing of URDS files
 - A new import button under URDS Options now allows you to import CSV files
-- You can now also send CSV files directly into the app using the send command
+- You can now also send CSV files directly into the app using the send/share command
 
 
 ## Installation notes:
