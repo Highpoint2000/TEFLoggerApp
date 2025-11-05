@@ -3,13 +3,16 @@ Interactive Logging App for TEF Receiver on Android Smartphones (Compatible from
 
 <img width="786" height="779" alt="image" src="https://github.com/user-attachments/assets/403e9a3e-ee25-4890-809a-b8779f48700b" />
 
-### Version 5.22 (update recommended for all systems!)
+## Version 5.3 (update recommended for all systems!)
 
-- Audio and/or vibration alarm sounds if TEF signal is lost after 10 seconds (repeats every 10 seconds / The alarm will only sound/vibrate if you have activated the respective function in the menu and AUTO LOG must be enable)
-- GPS startup status corrected during initial installation
-- Fixed ITU display error in the TX map table
-- Various formatting adjustments
-- Minor code optimizations
+- Integrated display and direct download of beta versions (Activate in the menu!)
+- Display of changes in the update dialog
+- URDS Map now uses the same map set as the TX Map and is therefore capable of offline use
+- CSV files now contain extended TX data
+- The Copy Button under URDS Options now has an export function and also allows sharing of URDS files
+- A new import button under URDS Options now allows you to import CSV files
+- You can now also send CSV files directly into the app using the send/share command
+- Info button with TX location selection fixed
 
 ## Installation notes:
 
@@ -40,6 +43,14 @@ See the detailed usage guide in the Wiki:
 [https://github.com/Highpoint2000/TEFLoggerApp/wiki](https://github.com/Highpoint2000/TEFLoggerApp/wiki)
 
 ## History:
+
+### Version 5.22 (update recommended for all systems!)
+
+- Audio and/or vibration alarm sounds if TEF signal is lost after 10 seconds (repeats every 10 seconds / The alarm will only sound/vibrate if you have activated the respective function in the menu and AUTO LOG must be enable)
+- GPS startup status corrected during initial installation
+- Fixed ITU display error in the TX map table
+- Various formatting adjustments
+- Minor code optimizations
 
 ### Version 5.21 (update recommended for all systems!)
 
