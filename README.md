@@ -7,6 +7,7 @@ Interactive Logging App for TEF Receiver on Android Smartphones (Compatible from
 
 - Display and control of FMDX web servers (https://servers.fmdx.org/) using the Connector App https://github.com/Highpoint2000/FMDXConnector)
 - Native integration of the web tools ID/TX Changer for subsequently modifying log data and Map Viewer for in-depth analysis of log files (except under the URDS option after file selection / Map Viewer only available on tablets)
+- Program crash at odd frequencies (e.g. 90.05) fixed
 
 ## Installation notes:
 
