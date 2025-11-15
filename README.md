@@ -3,21 +3,15 @@ Interactive Logging App for TEF Receiver on Android Smartphones (Compatible from
 
 <img width="786" height="779" alt="image" src="https://github.com/user-attachments/assets/403e9a3e-ee25-4890-809a-b8779f48700b" />
 
-## Version 5.3 (update recommended for all systems!)
+## Version 5.4 (FMDX Connector compatible Version)
 
-- Integrated display and direct download of beta versions (Activate in the menu!)
-- Display of changes in the update dialog
-- URDS Map now uses the same map set as the TX Map and is therefore capable of offline use
-- CSV files now contain extended TX data
-- The Copy Button under URDS Options now has an export function and also allows sharing of URDS files
-- A new import button under URDS Options now allows you to import CSV files
-- You can now also send CSV files directly into the app using the send/share command
-- Info button with TX location selection fixed
+- Display and control of FMDX web servers (https://servers.fmdx.org/) using the Connector App https://github.com/Highpoint2000/FMDXConnector)
+- Native integration of the web tools ID/TX Changer for subsequently modifying log data and Map Viewer for in-depth analysis of log files (except under the URDS option after file selection / Map Viewer only available on tablets)
 
 ## Installation notes:
 
 1. Install the newest TEF Firmware from [here](https://github.com/PE5PVB/TEF6686_ESP32/releases)
-2. [Download](https://github.com/Highpoint2000/TEFLoggerApp/raw/refs/heads/main/TEFLogger_5.3.apk) the latest apk file 
+2. [Download](https://github.com/Highpoint2000/TEFLoggerApp/raw/refs/heads/main/TEFLogger_5.4.apk) the latest apk file 
 3. Install the apk on your smartphone with paket manager
 4. Confirm GPS access
 5. Check your energy saving settings
@@ -25,6 +19,7 @@ Interactive Logging App for TEF Receiver on Android Smartphones (Compatible from
 ## Tested on:
 
 - Samsung Galaxy S7 Edge with Android 8
+- Sasmung Galaxy Tab A with Android 8.1
 - Samsung Galaxy S8 with Android 9 / OneUI 1.0 (Chrome update required -> external APK!)
 - Samsung Galaxy A8 (2018) with Android 9 / OneUI 1.0 (Chrome update required -> external APK!)
 - Samsung Galaxy A6 with Android 10 / OneUI 2.0
@@ -50,6 +45,17 @@ If you have any questions, would like to report problems, or have suggestions fo
 
 <details>
 <summary>History</summary>
+
+### Version 5.3 (update recommended for all systems!)
+
+- Integrated display and direct download of beta versions (Activate in the menu!)
+- Display of changes in the update dialog
+- URDS Map now uses the same map set as the TX Map and is therefore capable of offline use
+- CSV files now contain extended TX data
+- The Copy Button under URDS Options now has an export function and also allows sharing of URDS files
+- A new import button under URDS Options now allows you to import CSV files
+- You can now also send CSV files directly into the app using the send/share command
+- Info button with TX location selection fixed
 
 ### Version 5.22 (update recommended for all systems!)
 
