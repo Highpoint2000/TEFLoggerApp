@@ -5,7 +5,7 @@ Interactive Logging App for TEF Receiver and FMDX Webserver on Android Smartphon
 
 ## Version 5.5 (FMDX Connector & U.S. Callsign compatible Version)
 
-- Database for translating U.S. callsigns into PI codes integrated (Thanks to [Asher]https://github.com/asherrf))
+- Database for translating U.S. callsigns into PI codes integrated (Thanks to [Asher](https://github.com/asherrf))
 
 ## Installation notes:
 
