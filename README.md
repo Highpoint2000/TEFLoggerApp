@@ -3,11 +3,9 @@ Interactive Logging App for TEF Receiver and FMDX Webserver on Android Smartphon
 
 <img width="786" height="779" alt="image" src="https://github.com/user-attachments/assets/403e9a3e-ee25-4890-809a-b8779f48700b" />
 
-## Version 5.4 (FMDX Connector compatible Version)
+## Version 5.5 (FMDX Connector & U.S. Callsign compatible Version)
 
-- Display and control of FMDX web servers (https://servers.fmdx.org/) using the Connector App https://github.com/Highpoint2000/FMDXConnector)
-- Native integration of the web tools ID/TX Changer for subsequently modifying log data and Map Viewer for in-depth analysis of log files (except under the URDS option after file selection / Map Viewer only available on tablets)
-- Program crash at odd frequencies (e.g. 90.05) fixed
+- Database for translating U.S. callsigns into PI codes integrated (Thanks to [Asher]https://github.com/asherrf))
 
 ## Installation notes:
 
@@ -46,6 +44,12 @@ If you have any questions, would like to report problems, or have suggestions fo
 
 <details>
 <summary>History</summary>
+
+### Version 5.4 (FMDX Connector compatible Version)
+
+- Display and control of FMDX web servers (https://servers.fmdx.org/) using the Connector App https://github.com/Highpoint2000/FMDXConnector)
+- Native integration of the web tools ID/TX Changer for subsequently modifying log data and Map Viewer for in-depth analysis of log files (except under the URDS option after file selection / Map Viewer only available on tablets)
+- Program crash at odd frequencies (e.g. 90.05) fixed
 
 ### Version 5.3 (update recommended for all systems!)
 
