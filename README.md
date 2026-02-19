@@ -1,7 +1,7 @@
 # TEF Logger App
 Interactive Logging App for TEF Receiver and FMDX Webserver on Android Smartphones (Compatible from Android 8)
 
-<img width="786" height="779" alt="image" src="https://github.com/user-attachments/assets/403e9a3e-ee25-4890-809a-b8779f48700b" />
+<img width="1174" height="1075" alt="grafik" src="https://github.com/user-attachments/assets/7c959c73-62ed-40be-8e35-ce45510fa6aa" />
 
 ## Version 5.6 (FMDX Connector & U.S. Callsign compatible Version)
 
