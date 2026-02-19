@@ -3,14 +3,18 @@ Interactive Logging App for TEF Receiver and FMDX Webserver on Android Smartphon
 
 <img width="786" height="779" alt="image" src="https://github.com/user-attachments/assets/403e9a3e-ee25-4890-809a-b8779f48700b" />
 
-## Version 5.5 (FMDX Connector & U.S. Callsign compatible Version)
+## Version 5.6 (FMDX Connector & U.S. Callsign compatible Version)
 
-- Database for translating U.S. callsigns into PI codes integrated (Thanks to [Asher](https://github.com/asherrf))
+- Satellite view for position data built in (toggle on GPS Data)
+- WebView made more robust against network changes and potential crashes
+- Fixed a bug in the connection lines between the user's location and the transmitter
+- One-time default logo update at program startup
+- Display of polarization in the TX Map table
 
 ## Installation notes:
 
 1. Install the newest TEF Firmware from [here](https://github.com/PE5PVB/TEF6686_ESP32/releases) or install the [FMDX Connector](https://github.com/Highpoint2000/FMDXConnector)
-2. [Download](https://github.com/Highpoint2000/TEFLoggerApp/raw/refs/heads/main/TEFLogger_5.5.apk) the latest apk file 
+2. [Download](https://github.com/Highpoint2000/TEFLoggerApp/raw/refs/heads/main/TEFLogger_5.6.apk) the latest apk file 
 3. Install the apk on your smartphone with paket manager
 4. Confirm GPS access
 5. Check your energy saving settings
@@ -44,6 +48,10 @@ If you have any questions, would like to report problems, or have suggestions fo
 
 <details>
 <summary>History</summary>
+
+### Version 5.5 (FMDX Connector & U.S. Callsign compatible Version)
+
+- Database for translating U.S. callsigns into PI codes integrated (Thanks to [Asher](https://github.com/asherrf))
 
 ### Version 5.4 (FMDX Connector compatible Version)
 
