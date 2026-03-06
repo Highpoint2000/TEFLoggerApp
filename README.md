@@ -3,18 +3,23 @@ Interactive Logging App for TEF Receiver and FMDX Webserver on Android Smartphon
 
 <img width="1174" height="1075" alt="grafik" src="https://github.com/user-attachments/assets/7c959c73-62ed-40be-8e35-ce45510fa6aa" />
 
-## Version 5.6 (FMDX Connector & U.S. Callsign compatible Version)
+## Version 5.7 (Map Lizenz Version)
 
-- Satellite view for position data built in (toggle on GPS Data)
-- WebView made more robust against network changes and potential crashes
-- Fixed a bug in the connection lines between the user's location and the transmitter
-- One-time default logo update at program startup
-- Display of polarization in the TX Map table
+Due to the increasing number of app users and the resulting rise in map data downloads, I am unfortunately forced to introduce a service fee of €10 per year for using the map service. Currently, I pay almost €25 per month for this, and in some months it has even been close to €60 or €80. I can no longer bear this burden alone.
+Therefore, I urge all users to update to the new version 5.7. All older versions of the app will no longer have access to newer map data. As soon as the app is updated to version 5.7 and launched, it will register itself, and an automatic 14-day trial period will begin. When using the map display or via the newly added "Map License" menu item, a pop-up will appear with information about the current license status and the option to activate the map display.
+
+IMPORTANT! Those who do not wish to display the map data can, of course, continue to use the app free of charge. Activation only applies to the use of TX MAP or URDS MAP map display!
+
+Please feel free to contact me if you have any questions!
+73, Highpoint
+
+Email: highpoint2000@googlemail.com
+Discord: highpoint2000
 
 ## Installation notes:
 
 1. Install the newest TEF Firmware from [here](https://github.com/PE5PVB/TEF6686_ESP32/releases) or install the [FMDX Connector](https://github.com/Highpoint2000/FMDXConnector)
-2. [Download](https://github.com/Highpoint2000/TEFLoggerApp/raw/refs/heads/main/TEFLogger_5.6.apk) the latest apk file 
+2. [Download](https://github.com/Highpoint2000/TEFLoggerApp/raw/refs/heads/main/TEFLogger_5.7.apk) the latest apk file 
 3. Install the apk on your smartphone with paket manager
 4. Confirm GPS access
 5. Check your energy saving settings
@@ -48,6 +53,14 @@ If you have any questions, would like to report problems, or have suggestions fo
 
 <details>
 <summary>History</summary>
+
+### Version 5.6 (FMDX Connector & U.S. Callsign compatible Version)
+
+- Satellite view for position data built in (toggle on GPS Data)
+- WebView made more robust against network changes and potential crashes
+- Fixed a bug in the connection lines between the user's location and the transmitter
+- One-time default logo update at program startup
+- Display of polarization in the TX Map table
 
 ### Version 5.5 (FMDX Connector & U.S. Callsign compatible Version)
 
