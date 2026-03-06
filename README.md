@@ -13,8 +13,7 @@ IMPORTANT! Those who do not wish to display the map data can, of course, continu
 Please feel free to contact me if you have any questions!
 73, Highpoint
 
-Email: highpoint2000@googlemail.com
-Discord: highpoint2000
+Email: highpoint2000@googlemail.com / Discord: highpoint2000
 
 ## Installation notes:
 
