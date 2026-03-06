@@ -8,8 +8,8 @@ Interactive Logging App for TEF Receiver and FMDX Webserver on Android Smartphon
 Due to the increasing number of app users and the resulting rise in map data downloads, I am unfortunately forced to introduce a service fee of €10 per year for using the map service. Currently, I pay almost €25 per month for this, and in some months it has even been close to €60 or €80. I can no longer bear this burden alone.
 Therefore, I urge all users to update to the new version 5.7. All older versions of the app will no longer have access to newer map data. As soon as the app is updated to version 5.7 and launched, it will register itself, and an automatic 14-day trial period will begin. When using the map display or via the newly added "Map License" menu item, a pop-up will appear with information about the current license status and the option to activate the map display.
 IMPORTANT! Those who do not wish to display the map data can, of course, continue to use the app free of charge. Activation only applies to the use of TX MAP or URDS MAP map display!
-Please feel free to contact me if you have any questions!
-73, Highpoint
+
+Please feel free to contact me if you have any questions! 73, Highpoint
 Email: highpoint2000@googlemail.com / Discord: highpoint2000
 
 ## Installation notes:
