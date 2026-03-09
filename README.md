@@ -3,7 +3,7 @@ Interactive Logging App for TEF Receiver and FMDX Webserver on Android Smartphon
 
 <img width="1174" height="1075" alt="grafik" src="https://github.com/user-attachments/assets/7c959c73-62ed-40be-8e35-ce45510fa6aa" />
 
-## Version 5.7 (Map Lizenz Version)
+## Version 5.7 (Map License Version)
 
 Due to the increasing number of app users and the resulting rise in map data downloads, I am unfortunately forced to introduce a service fee of €10 per year per Device for using the map service. Currently, I pay almost €25 per month for this, and in some months it has even been close to €60 or €80. I can no longer bear this burden alone.
 Therefore, I urge all users to update to the new version 5.7. All older versions of the app will no longer have access to newer map data. As soon as the app is updated to version 5.7 and launched, it will register itself, and an automatic 14-day trial period will begin. When using the map display or via the newly added "Map License" menu item, a pop-up will appear with information about the current license status and the option to activate the map display.
