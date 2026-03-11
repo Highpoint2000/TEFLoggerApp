@@ -41,8 +41,7 @@ Email: highpoint2000@googlemail.com / Discord: highpoint2000
 
 ## Operation
 
-See the detailed usage guide in the Wiki:  
-[https://github.com/Highpoint2000/TEFLoggerApp/wiki](https://github.com/Highpoint2000/TEFLoggerApp/wiki)
+See the detailed usage guide in the [Wiki](https://github.com/Highpoint2000/TEFLoggerApp/wiki/TEF-Logger-App-Wiki)
 
 ## Contact
 
