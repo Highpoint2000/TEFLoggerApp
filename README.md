@@ -39,6 +39,12 @@ Interactive Logging App for TEF Receiver and FMDX Webserver on Android Smartphon
 
 See the detailed usage guide in the [Wiki](https://github.com/Highpoint2000/TEFLoggerApp/wiki/TEF-Logger-App-Wiki)
 
+## Map License
+
+To use the paid map service, an annual service fee of €10 per device is payable. Before this fee is due, the app automatically registers for a 14-day trial period. A pop-up window will appear when you click the TX MAP or URDS MAP button, displaying the current licensing status and activation options. After activation, you can also check your current license status at any time under the "Map License" menu item.
+
+IMPORTANT! If you do not need the map display, you can, of course, continue to use the app free of charge. Activation is only valid for using the TX MAP or URDS MAP map display!
+
 ## Contact
 
 If you have any questions, would like to report problems, or have suggestions for improvement, please feel free to contact me! You can reach me by email at highpoint2000@googlemail.com. I look forward to hearing from you!
