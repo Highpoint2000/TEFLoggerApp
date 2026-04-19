@@ -3,18 +3,14 @@ Interactive Logging App for TEF Receiver and FMDX Webserver on Android Smartphon
 
 <img width="1174" height="1075" alt="grafik" src="https://github.com/user-attachments/assets/7c959c73-62ed-40be-8e35-ce45510fa6aa" />
 
-## Version 5.71
+## Version 5.72 (HOTFIX VERSION)
 
-- Webview is now only loaded when the map is activated
-- Map data is now only loaded from the server when the map is active, reducing network traffic
-- Fixed app crash with large logo files
-- Badge display for additional locations adjusted (Italy: 99+)
-- Manual frequency input is now possible from 68.8 to 108.0 MHz
+- Problems synchronizing display data (e.g., incorrect display of station information) fixed
 
 ## Installation notes:
 
 1. Install the newest TEF Firmware from [here](https://github.com/PE5PVB/TEF6686_ESP32/releases) or install the [FMDX Connector](https://github.com/Highpoint2000/FMDXConnector)
-2. [Download](https://github.com/Highpoint2000/TEFLoggerApp/raw/refs/heads/main/TEFLogger_5.71.apk) the latest apk file 
+2. [Download](https://github.com/Highpoint2000/TEFLoggerApp/raw/refs/heads/main/TEFLogger_5.72.apk) the latest apk file 
 3. Install the apk on your smartphone with paket manager
 4. Confirm GPS access
 5. Check your energy saving settings
@@ -41,9 +37,12 @@ See the detailed usage guide in the [Wiki](https://github.com/Highpoint2000/TEFL
 
 ## Map License
 
-To use the paid map service, an annual service fee of €10 per device is payable. Before this fee is due, the app automatically registers for a 14-day trial period. A pop-up window will appear when you click the TX MAP or URDS MAP button, displaying the current licensing status and activation options. After activation, you can also check your current license status at any time under the "Map License" menu item.
+Due to the increasing number of users and the resulting rise in map data downloads, I am unfortunately forced to introduce a service fee of €10 per year and device for using the map service. Currently, I pay almost €25 per month for this, and in some months even almost €60 or €80. I can no longer bear this burden alone. Therefore, I urge all users to update to the latest version. All older versions of the app will then no longer have access to the newer map data. Once the app has been updated, installed, and launched for the first time, it will register automatically, and a 14-day trial period will begin. When using the map display or via the newly added "Map License" menu item, a pop-up will appear with information about the current license status and the option to activate the map display.
 
-IMPORTANT! If you do not need the map display, you can, of course, continue to use the app free of charge. Activation is only valid for using the TX MAP or URDS MAP map display!
+IMPORTANT! Those who do not wish to display the map data can, of course, continue to use the app free of charge. Activation only applies to the use of the map display from TX MAP or URDS MAP!
+
+Please feel free to contact me if you have any questions!
+
 
 ## Contact
 
@@ -53,6 +52,14 @@ If you have any questions, would like to report problems, or have suggestions fo
 
 <details>
 <summary>History</summary>
+
+### Version 5.71
+
+- Webview is now only loaded when the map is activated
+- Map data is now only loaded from the server when the map is active, reducing network traffic
+- Fixed app crash with large logo files
+- Badge display for additional locations adjusted (Italy: 99+)
+- Manual frequency input is now possible from 68.8 to 108.0 MHz
 
 ### Version 5.7 (Map License Version)
 
