@@ -3,11 +3,9 @@ Interactive Logging App for TEF Receiver and FMDX Webserver on Android Smartphon
 
 <img width="1174" height="1075" alt="grafik" src="https://github.com/user-attachments/assets/7c959c73-62ed-40be-8e35-ce45510fa6aa" />
 
-## Version 5.8
+## Version 5.81
 
-- Added a comment input field, the contents of which are written to the log file; activation is performed via a menu entry
-- Linked the URDS Mapviewer + ID Changer to the new server URL
-- Renamed the menu function "Recreate Cache" to "Offline Caching"
+- ID Changer has been replaced by URDS Validator. This allows log files to be verified, modified, and deleted, as well as for comments to be added and edited.
 
 ## Installation notes:
 
@@ -54,6 +52,12 @@ If you have any questions, would like to report problems, or have suggestions fo
 
 <details>
 <summary>History</summary>
+
+### Version 5.8
+
+- Added a comment input field, the contents of which are written to the log file; activation is performed via a menu entry
+- Linked the URDS Mapviewer + ID Changer to the new server URL
+- Renamed the menu function "Recreate Cache" to "Offline Caching"
 
 ### Version 5.72 (HOTFIX VERSION)
 
