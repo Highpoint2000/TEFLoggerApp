@@ -7,6 +7,8 @@ Interactive Logging App for TEF Receiver and FMDX Webserver on Android Smartphon
 
 - ID Changer has been replaced by URDS Validator. This allows log files to be verified, modified, and deleted, as well as for comments to be added and edited.
 
+You can find a detailed guide for the validator here: https://highpoint.fmdx.org/manuals/urds-log-validator-Documentation.html
+
 ## Installation notes:
 
 1. Install the newest TEF Firmware from [here](https://github.com/PE5PVB/TEF6686_ESP32/releases) or install the [FMDX Connector](https://github.com/Highpoint2000/FMDXConnector)
