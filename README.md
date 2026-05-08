@@ -3,9 +3,11 @@ Interactive Logging App for TEF Receiver and FMDX Webserver on Android Smartphon
 
 <img width="1174" height="1075" alt="grafik" src="https://github.com/user-attachments/assets/7c959c73-62ed-40be-8e35-ce45510fa6aa" />
 
-## Version 5.72 (HOTFIX VERSION)
+## Version 5.8
 
-- Problems synchronizing display data (e.g., incorrect display of station information) fixed
+- Added a comment input field, the contents of which are written to the log file; activation is performed via a menu entry
+- Linked the URDS Mapviewer + ID Changer to the new server URL
+- Renamed the menu function "Recreate Cache" to "Offline Caching"
 
 ## Installation notes:
 
@@ -52,6 +54,10 @@ If you have any questions, would like to report problems, or have suggestions fo
 
 <details>
 <summary>History</summary>
+
+### Version 5.72 (HOTFIX VERSION)
+
+- Problems synchronizing display data (e.g., incorrect display of station information) fixed
 
 ### Version 5.71
 
