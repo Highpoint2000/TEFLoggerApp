@@ -3,9 +3,9 @@ Interactive Logging App for TEF Receiver and FMDX Webserver on Android Smartphon
 
 <img width="1174" height="1075" alt="grafik" src="https://github.com/user-attachments/assets/7c959c73-62ed-40be-8e35-ce45510fa6aa" />
 
-## Version 5.81
+## Version 5.82
 
-- ID Changer has been replaced by URDS Validator. This allows log files to be verified, modified, and deleted, as well as for comments to be added and edited.
+- Fixed incorrect assignment of U.S. callsigns for stations outside North America
 
 You can find a detailed guide for the validator here: https://highpoint.fmdx.org/manuals/urds-log-validator-Documentation.html
 
@@ -54,6 +54,11 @@ If you have any questions, would like to report problems, or have suggestions fo
 
 <details>
 <summary>History</summary>
+
+### Version 5.81
+
+- ID Changer has been replaced by URDS Validator. This allows log files to be verified, modified, and deleted, as well as for comments to be added and edited.
+
 
 ### Version 5.8
 
