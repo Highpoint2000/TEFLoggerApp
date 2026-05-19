@@ -3,9 +3,10 @@ Interactive Logging App for TEF Receiver and FMDX Webserver on Android Smartphon
 
 <img width="1174" height="1075" alt="grafik" src="https://github.com/user-attachments/assets/7c959c73-62ed-40be-8e35-ce45510fa6aa" />
 
-## Version 5.82
+## Version 5.83
 
-- Fixed incorrect assignment of U.S. callsigns for stations outside North America
+- To rule out errors, PS now consistently includes an underscore in the display and in the URDS CSV log file
+- Fixed the warning message "unsafe app blocked" during initial app installation
 
 You can find a detailed guide for the validator here: https://highpoint.fmdx.org/manuals/urds-log-validator-Documentation.html
 
@@ -54,6 +55,10 @@ If you have any questions, would like to report problems, or have suggestions fo
 
 <details>
 <summary>History</summary>
+
+### Version 5.82
+
+- Fixed incorrect assignment of U.S. callsigns for stations outside North America
 
 ### Version 5.81
 
