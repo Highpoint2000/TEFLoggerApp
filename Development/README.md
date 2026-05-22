@@ -3,14 +3,14 @@ Interactive Logging App for TEF Receiver on Android Smartphones (Compatible from
 
 <img width="786" height="779" alt="image" src="https://github.com/user-attachments/assets/403e9a3e-ee25-4890-809a-b8779f48700b" />
 
-### Version 5.61_BETA1
+### Version 5.9_BETA1
 
-- Robust anti-crash solution for web viewer
+- Validation indicators for PI, PS, and AF have been implemented: white values ​​match the database; gray values ​​could not be validated; and for struck-through values, no local database entries currently exist (offline caching is recommended).
 
 ## Installation notes:
 
 1. Install the newest TEF Firmware from [here](https://github.com/PE5PVB/TEF6686_ESP32/releases)
-2. [Download](https://github.com/Highpoint2000/TEFLoggerApp/raw/refs/heads/main/Development/TEFLogger_5.61_BETA1.apk) the latest apk file 
+2. [Download](https://github.com/Highpoint2000/TEFLoggerApp/raw/refs/heads/main/Development/TEFLogger_5.9_BETA1.apk) the latest apk file 
 3. Install the apk on your smartphone with paket manager
 4. Confirm GPS access
 5. Check your energy saving settings
