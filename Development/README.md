@@ -3,9 +3,9 @@ Interactive Logging App for TEF Receiver on Android Smartphones (Compatible from
 
 <img width="786" height="779" alt="image" src="https://github.com/user-attachments/assets/403e9a3e-ee25-4890-809a-b8779f48700b" />
 
-### Version 5.9_BETA1
+### Version 5.9_BETA2
 
-- Validation indicators for PI, PS, and AF have been implemented: white values ​​match the database; gray values ​​could not be validated; and for struck-through values, no local database entries currently exist (offline caching is recommended).
+- Integrated RDS AI Predictor (optionally activatable in menue). It intelligently reconstructs fragmented Radio Data System (RDS) transmissions in real time, thereby ensuring reliable and very rapid station identification—even under poor signal conditions and extreme propagation environments. Detailed documentation is available here: https://highpoint.fmdx.org/manuals/RDS-AI-Predictor-Documentation.html
 
 ## Installation notes:
 
