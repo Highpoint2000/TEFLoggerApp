@@ -3,14 +3,14 @@ Interactive Logging App for TEF Receiver on Android Smartphones (Compatible from
 
 <img width="786" height="779" alt="image" src="https://github.com/user-attachments/assets/403e9a3e-ee25-4890-809a-b8779f48700b" />
 
-### Version 5.9_BETA2
+### Version 5.9_BETA3
 
-- Integrated RDS AI Predictor (optionally activatable in menue). It intelligently reconstructs fragmented Radio Data System (RDS) transmissions in real time, thereby ensuring reliable and very rapid station identification—even under poor signal conditions and extreme propagation environments. Detailed documentation is available here: https://highpoint.fmdx.org/manuals/RDS-AI-Predictor-Documentation.html
+- Further adjustments related to the new RDS AI Predictor. Detailed documentation is available here: https://highpoint.fmdx.org/manuals/RDS-AI-Predictor-Documentation.html
 
 ## Installation notes:
 
 1. Install the newest TEF Firmware from [here](https://github.com/PE5PVB/TEF6686_ESP32/releases)
-2. [Download](https://github.com/Highpoint2000/TEFLoggerApp/raw/refs/heads/main/Development/TEFLogger_5.9_BETA2.apk) the latest apk file 
+2. [Download](https://github.com/Highpoint2000/TEFLoggerApp/raw/refs/heads/main/Development/TEFLogger_5.9_BETA3.apk) the latest apk file 
 3. Install the apk on your smartphone with paket manager
 4. Confirm GPS access
 5. Check your energy saving settings
