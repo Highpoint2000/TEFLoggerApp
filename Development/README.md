@@ -3,9 +3,9 @@ Interactive Logging App for TEF Receiver on Android Smartphones (Compatible from
 
 <img width="786" height="779" alt="image" src="https://github.com/user-attachments/assets/403e9a3e-ee25-4890-809a-b8779f48700b" />
 
-### Version 5.9_BETA4 (HOTFIX VERSION!) 
+### Version 5.9_BETA4
 
-- Fixed errors involving quotation marks in the URDS CSV file.
+- HOTFIX: Fixed errors involving quotation marks in the URDS CSV file.
 
 ## Installation notes:
 
