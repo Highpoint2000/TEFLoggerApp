@@ -5,7 +5,7 @@ Interactive Logging App for TEF Receiver on Android Smartphones (Compatible from
 
 ### Version 5.9_BETA4
 
-- HOTFIX: Fixed errors involving quotation marks in the URDS CSV file.
+- HOTFIX: Fixed errors involving quotation marks in the URDS CSV file. 
 
 ## Installation notes:
 
