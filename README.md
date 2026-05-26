@@ -3,12 +3,13 @@ Interactive Logging App for TEF Receiver and FMDX Webserver on Android Smartphon
 
 <img width="1174" height="1075" alt="grafik" src="https://github.com/user-attachments/assets/7c959c73-62ed-40be-8e35-ce45510fa6aa" />
 
-## Version 5.83
+## Version 5.9
 
-- To rule out errors, PS now consistently includes an underscore in the display and in the URDS CSV log file
-- Fixed the warning message "unsafe app blocked" during initial app installation
+- Database validation indicator implemented for PI, PS and AF (gray: not validated / white: validated)
+- RDS AI Predictor integrated for rapid pre-determination of PS
+- The logo is now reloaded only when changes occur (no more flickering)
 
-You can find a detailed guide for the validator here: https://highpoint.fmdx.org/manuals/urds-log-validator-Documentation.html
+You can find a detailed guide for the RDS AI Predictor here: https://highpoint.fmdx.org/manuals/RDS-AI-Predictor-Documentation.html
 
 ## Installation notes:
 
@@ -55,6 +56,13 @@ If you have any questions, would like to report problems, or have suggestions fo
 
 <details>
 <summary>History</summary>
+
+### Version 5.83
+
+- To rule out errors, PS now consistently includes an underscore in the display and in the URDS CSV log file
+- Fixed the warning message "unsafe app blocked" during initial app installation
+
+You can find a detailed guide for the validator here: https://highpoint.fmdx.org/manuals/urds-log-validator-Documentation.html
 
 ### Version 5.82
 
