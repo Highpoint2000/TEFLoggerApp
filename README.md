@@ -14,7 +14,7 @@ You can find a detailed guide for the RDS AI Predictor here: https://highpoint.f
 ## Installation notes:
 
 1. Install the newest TEF Firmware from [here](https://github.com/PE5PVB/TEF6686_ESP32/releases) or install the [FMDX Connector](https://github.com/Highpoint2000/FMDXConnector)
-2. [Download](https://github.com/Highpoint2000/TEFLoggerApp/raw/refs/heads/main/TEFLogger_5.90.apk) the latest apk file 
+2. [Download](https://github.com/Highpoint2000/TEFLoggerApp/raw/refs/heads/main/TEFLogger_5.9.apk) the latest apk file 
 3. Install the apk on your smartphone with paket manager
 4. Confirm GPS access
 5. Check your energy saving settings
