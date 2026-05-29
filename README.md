@@ -3,18 +3,25 @@ Interactive Logging App for TEF Receiver and FMDX Webserver on Android Smartphon
 
 <img width="1174" height="1075" alt="grafik" src="https://github.com/user-attachments/assets/7c959c73-62ed-40be-8e35-ce45510fa6aa" />
 
-## Version 5.9
+## Version 6.0
 
-- Database validation indicator implemented for PI, PS and AF (gray: not validated / white: validated)
-- RDS AI Predictor integrated for rapid pre-determination of PS
-- The logo is now reloaded only when changes occur (no more flickering)
+- Various performance improvements
+- Memory usage and Anti-Ghost PI optimized within the RDS AI Predictor
+- Display of stations with PI Regional Codes implemented
+- Display of all PS entries stored in FMDX and LocalDB added (click on PS value)
+- Option to delete the local AI database added (click on the AI ​​icon)
+- Background logging revised (Android 15 & 16); new Lock Screen function added (recommended for Android 14 and below)
+URDS CSV Changes:
+- Identification of log entries processed by RDS AI (Column 45)
+- PI RAW (Column 46) and PS RAW (Column 47) are now saved in the CSV file
+- Comments are now saved in Column 48
 
 You can find a detailed guide for the RDS AI Predictor here: https://highpoint.fmdx.org/manuals/RDS-AI-Predictor-Documentation.html
 
 ## Installation notes:
 
 1. Install the newest TEF Firmware from [here](https://github.com/PE5PVB/TEF6686_ESP32/releases) or install the [FMDX Connector](https://github.com/Highpoint2000/FMDXConnector)
-2. [Download](https://github.com/Highpoint2000/TEFLoggerApp/raw/refs/heads/main/TEFLogger_5.9.apk) the latest apk file 
+2. [Download](https://github.com/Highpoint2000/TEFLoggerApp/raw/refs/heads/main/TEFLogger_6.0.apk) the latest apk file 
 3. Install the apk on your smartphone with paket manager
 4. Confirm GPS access
 5. Check your energy saving settings
@@ -56,6 +63,12 @@ If you have any questions, would like to report problems, or have suggestions fo
 
 <details>
 <summary>History</summary>
+
+### Version 5.9
+
+- Database validation indicator implemented for PI, PS and AF (gray: not validated / white: validated)
+- RDS AI Predictor integrated for rapid pre-determination of PS
+- The logo is now reloaded only when changes occur (no more flickering)
 
 ### Version 5.83
 
