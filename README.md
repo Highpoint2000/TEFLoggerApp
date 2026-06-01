@@ -3,18 +3,10 @@ Interactive Logging App for TEF Receiver and FMDX Webserver on Android Smartphon
 
 <img width="1174" height="1075" alt="grafik" src="https://github.com/user-attachments/assets/7c959c73-62ed-40be-8e35-ce45510fa6aa" />
 
-## Version 6.0
+## Version 6.0a
 
-- Various performance improvements
-- Memory usage and Anti-Ghost PI optimized within the RDS AI Predictor
-- Display of stations with PI Regional Codes implemented
-- Display of all PS entries stored in FMDX and LocalDB added (click on PS value)
-- Option to delete the local AI database added (click on the AI ​​icon)
-- Background logging revised (Android 15 & 16); new Lock Screen function added (recommended for Android 14 and below)
-URDS CSV Changes:
-- Identification of log entries processed by RDS AI (Column 45)
-- PI RAW (Column 46) and PS RAW (Column 47) are now saved in the CSV file
-- Comments are now saved in Column 48
+- CSV Logging Update: The positions of the raw values ​​and the AI-predicted PI/PS values ​​have been swapped. The standard (raw) station data is now stored in the default URDS columns, while the AI ​​predictor values ​​have been moved to the custom extension columns at the end of the file.
+- The URDS Validator and all other web tools have been updated accordingly.
 
 You can find a detailed guide for the RDS AI Predictor here: https://highpoint.fmdx.org/manuals/RDS-AI-Predictor-Documentation.html
 
@@ -63,6 +55,19 @@ If you have any questions, would like to report problems, or have suggestions fo
 
 <details>
 <summary>History</summary>
+
+### Version 6.0
+
+- Various performance improvements
+- Memory usage and Anti-Ghost PI optimized within the RDS AI Predictor
+- Display of stations with PI Regional Codes implemented
+- Display of all PS entries stored in FMDX and LocalDB added (click on PS value)
+- Option to delete the local AI database added (click on the AI ​​icon)
+- Background logging revised (Android 15 & 16); new Lock Screen function added (recommended for Android 14 and below)
+URDS CSV Changes:
+- Identification of log entries processed by RDS AI (Column 45)
+- PI RAW (Column 46) and PS RAW (Column 47) are now saved in the CSV file
+- Comments are now saved in Column 48
 
 ### Version 5.9
 
