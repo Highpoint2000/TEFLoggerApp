@@ -5,8 +5,9 @@ Interactive Logging App for TEF Receiver and FMDX Webserver on Android Smartphon
 
 ## Version 6.01
 
-- CSV Logging Update: The positions of the raw values ​​and the AI-predicted PI/PS values ​​have been swapped. The standard (raw) station data is now stored in the default URDS columns, while the AI ​​predictor values ​​have been moved to the custom extension columns at the end of the file.
-- The URDS Validator and all other web tools have been updated accordingly.
+- CSV Logging Update: The positions of the raw values ​​and the AI-predicted PI/PS values ​​have been swapped. The standard (raw) station data is now stored in the default URDS columns, while the AI ​​predictor values ​​have been moved to the custom extension columns at the end of the file
+- The URDS Validator and all other web tools have been updated accordingly
+- Lock Screen feature now released for all Android versions
 
 You can find a detailed guide for the RDS AI Predictor here: https://highpoint.fmdx.org/manuals/RDS-AI-Predictor-Documentation.html
 
