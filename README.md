@@ -3,7 +3,7 @@ Interactive Logging App for TEF Receiver and FMDX Webserver on Android Smartphon
 
 <img width="1174" height="1075" alt="grafik" src="https://github.com/user-attachments/assets/7c959c73-62ed-40be-8e35-ce45510fa6aa" />
 
-## Version 6.0a
+## Version 6.01
 
 - CSV Logging Update: The positions of the raw values ​​and the AI-predicted PI/PS values ​​have been swapped. The standard (raw) station data is now stored in the default URDS columns, while the AI ​​predictor values ​​have been moved to the custom extension columns at the end of the file.
 - The URDS Validator and all other web tools have been updated accordingly.
@@ -13,7 +13,7 @@ You can find a detailed guide for the RDS AI Predictor here: https://highpoint.f
 ## Installation notes:
 
 1. Install the newest TEF Firmware from [here](https://github.com/PE5PVB/TEF6686_ESP32/releases) or install the [FMDX Connector](https://github.com/Highpoint2000/FMDXConnector)
-2. [Download](https://github.com/Highpoint2000/TEFLoggerApp/raw/refs/heads/main/TEFLogger_6.0a.apk) the latest apk file 
+2. [Download](https://github.com/Highpoint2000/TEFLoggerApp/raw/refs/heads/main/TEFLogger_6.01.apk) the latest apk file 
 3. Install the apk on your smartphone with paket manager
 4. Confirm GPS access
 5. Check your energy saving settings
