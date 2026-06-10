@@ -5,7 +5,7 @@ Interactive Logging App for TEF Receiver on Android Smartphones (Compatible from
 
 ### Version 6.02_BETA1
 
-Changes to the RDS Predictor:
+RDS Predictor revised:
 - SpE-Cache: Implemented an aggressive 5-minute cache expiration for DX stations (>800 km) to prevent long-term PI blocking after a Sporadic-E opening.
 - Dynamic Thresholds: Added distance-based confirmation thresholds, dynamically scaling the required error-free hits from 2 (Local Tropo) up to 6 (SpE / Meteor Scatter) to suppress Ghost PIs.
 - Hysteresis Limit: Disabled instant memory restore for stations >800 km. Sporadic-E stations must now re-verify live during fading instead of permanently sticking to the cached name.
