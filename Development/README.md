@@ -3,18 +3,14 @@ Interactive Logging App for TEF Receiver on Android Smartphones (Compatible from
 
 <img width="786" height="779" alt="image" src="https://github.com/user-attachments/assets/403e9a3e-ee25-4890-809a-b8779f48700b" />
 
-### Version 6.02_BETA1
+### Version 6.02_BETA2
 
-RDS Predictor revised:
-- SpE-Cache: Implemented an aggressive 5-minute cache expiration for DX stations (>800 km) to prevent long-term PI blocking after a Sporadic-E opening.
-- Dynamic Thresholds: Added distance-based confirmation thresholds, dynamically scaling the required error-free hits from 2 (Local Tropo) up to 6 (SpE / Meteor Scatter) to suppress Ghost PIs.
-- Hysteresis Limit: Disabled instant memory restore for stations >800 km. Sporadic-E stations must now re-verify live during fading instead of permanently sticking to the cached name.
-- Dummy-PI Blocker: Integrated strict single-candidate validation. The app now rejects sole FMDX database matches if they severely conflict with the live received PS characters.
+- Strict PI Filtering for Auto Log: Fixed an issue where Auto Log generated blank CSV entries when tuned to a frequency with no PI data.
 
 ## Installation notes:
 
 1. Install the newest TEF Firmware from [here](https://github.com/PE5PVB/TEF6686_ESP32/releases)
-2. [Download](https://github.com/Highpoint2000/TEFLoggerApp/raw/refs/heads/main/Development/TEFLogger_6.02_BETA1.apk) the latest apk file 
+2. [Download](https://github.com/Highpoint2000/TEFLoggerApp/raw/refs/heads/main/Development/TEFLogger_6.02_BETA2.apk) the latest apk file 
 3. Install the apk on your smartphone with paket manager
 4. Confirm GPS access
 5. Check your energy saving settings
