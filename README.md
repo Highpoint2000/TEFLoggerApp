@@ -37,7 +37,7 @@ You can find a detailed guide for the RDS AI Predictor here: https://highpoint.f
 
 ## Operation
 
-See the detailed usage guide in the [Wiki](https://github.com/Highpoint2000/TEFLoggerApp/wiki/TEF-Logger-App-Wiki)
+See the detailed usage guide in the [Documentation](https://highpoint.fmdx.org/manuals/TEF-Logger-App-Documentation.html)
 
 ## Map License
 
