@@ -5,7 +5,7 @@ Interactive Logging App for TEF Receiver and FMDX Webserver on Android Smartphon
 
 ## Version 6.10
 
-- New FMLIST Logging Integration: Added an optional FMLIST log button with manual and automatic modes, persistent time-interval checks surviving app restarts, distance boundary filters, and direct asynchronous API submission to fmlist.org (see point 11 in the [Documentation](https://highpoint.fmdx.org/manuals/TEF-Logger-App-Documentation.html))*
+- New FMLIST Logging Integration: Added an optional FMLIST log button with manual and automatic modes, persistent time-interval checks surviving app restarts, distance boundary filters, and direct asynchronous API submission to fmlist.org (see point 11 in the TEF Logger App Documentation)*
 - Audio & AudioTrack Modernization: Replaced the legacy ToneGenerator with an AudioTrack PCM sine wave generator featuring a 40ms warmup period and API-level checks to fix audio signal issues on SHIFTphone 8 and Android 14 devices.
 - RDS AI Predictor Enhancements: Implementing strict distance penalties for PI collisions (< 500 km vs. > 1200 km), stricter PS verification for chimeras on distant DX stations (> 1000 km), and dynamic multi-frame PS matching.
 - Performance & Speed Optimizations: Eliminated redundant RAM cache resets during frequency switches, added an instant PI forward lookup for immediate station resolution, and converted synchronous update checks into non-blocking background routines to make data retrieval virtually instantaneous.
