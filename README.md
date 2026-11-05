@@ -3,13 +3,15 @@ Interactive Logging App for TEF Receiver and FMDX Webserver on Android Smartphon
 
 <img width="1174" height="1075" alt="grafik" src="https://github.com/user-attachments/assets/7c959c73-62ed-40be-8e35-ce45510fa6aa" />
 
-## Version 6.01
+## Version 6.10
 
-- CSV Logging Update: The positions of the raw values ​​and the AI-predicted PI/PS values ​​have been swapped. The standard (raw) station data is now stored in the default URDS columns, while the AI ​​predictor values ​​have been moved to the custom extension columns at the end of the file
-- The URDS Validator and all other web tools have been updated accordingly
-- Lock Screen feature now released for all Android versions
+- New FMLIST Logging Integration: Added an optional FMLIST log button with manual and automatic modes, persistent time-interval checks surviving app restarts, distance boundary filters, and direct asynchronous API submission to fmlist.org (see point 11 in the [Documentation](https://highpoint.fmdx.org/manuals/TEF-Logger-App-Documentation.html))*
+- Audio & AudioTrack Modernization: Replaced the legacy ToneGenerator with an AudioTrack PCM sine wave generator featuring a 40ms warmup period and API-level checks to fix audio signal issues on SHIFTphone 8 and Android 14 devices.
+- RDS AI Predictor Enhancements: Implementing strict distance penalties for PI collisions (< 500 km vs. > 1200 km), stricter PS verification for chimeras on distant DX stations (> 1000 km), and dynamic multi-frame PS matching.
+- Performance & Speed Optimizations: Eliminated redundant RAM cache resets during frequency switches, added an instant PI forward lookup for immediate station resolution, and converted synchronous update checks into non-blocking background routines to make data retrieval virtually instantaneous.
+- Native Logging Separation: Ensured that the front columns of the URDS CSV logfile strictly capture the native hardware PI and PS codes regardless of whether the AI Predictor is enabled or disabled, while the AI-enhanced predictions remain properly separated in the designated extension columns at the end of the log row.
 
-You can find a detailed guide for the RDS AI Predictor here: https://highpoint.fmdx.org/manuals/RDS-AI-Predictor-Documentation.html
+*Important: Since a user's location in FMLIST is always tied to an OMID, the FMLIST logging function is intended exclusively for stationary use; using it on mobile devices will result in incorrect distance calculations and erroneous log entries.
 
 ## Installation notes:
 
@@ -57,6 +59,12 @@ If you have any questions, would like to report problems, or have suggestions fo
 <details>
 <summary>History</summary>
 
+### Version 6.01
+
+- CSV Logging Update: The positions of the raw values ​​and the AI-predicted PI/PS values ​​have been swapped. The standard (raw) station data is now stored in the default URDS columns, while the AI ​​predictor values ​​have been moved to the custom extension columns at the end of the file
+- The URDS Validator and all other web tools have been updated accordingly
+- Lock Screen feature now released for all Android versions
+
 ### Version 6.0
 
 - Various performance improvements
@@ -75,6 +83,8 @@ URDS CSV Changes:
 - Database validation indicator implemented for PI, PS and AF (gray: not validated / white: validated)
 - RDS AI Predictor integrated for rapid pre-determination of PS
 - The logo is now reloaded only when changes occur (no more flickering)
+
+You can find a detailed guide for the RDS AI Predictor here: https://highpoint.fmdx.org/manuals/RDS-AI-Predictor-Documentation.html
 
 ### Version 5.83
 
