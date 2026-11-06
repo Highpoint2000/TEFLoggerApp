@@ -3,7 +3,7 @@ Interactive Logging App for TEF Receiver and FMDX Webserver on Android Smartphon
 
 <img width="1174" height="1075" alt="grafik" src="https://github.com/user-attachments/assets/7c959c73-62ed-40be-8e35-ce45510fa6aa" />
 
-## Version 6.1
+## Version 6.10
 
 - New FMLIST Logging Integration: Added an optional FMLIST log button with manual and automatic modes, persistent time-interval checks surviving app restarts, distance boundary filters, and direct asynchronous API submission to fmlist.org (see point 11 in the TEF Logger App Documentation)*
 - Audio & AudioTrack Modernization: Replaced the legacy ToneGenerator with an AudioTrack PCM sine wave generator featuring a 40ms warmup period and API-level checks to fix audio signal issues on SHIFTphone 8 and Android 14 devices.
