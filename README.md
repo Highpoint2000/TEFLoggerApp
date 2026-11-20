@@ -35,7 +35,7 @@ Interactive Logging App for TEF Receiver and FMDX Webserver on Android Smartphon
 - Samsung Galaxy A51 with Android 13 / OneUI 5.1
 - Samsung Galaxy A13 with Android 14 / OneUI 6.1
 - Samsung Galaxy Tab A9+ with Android 15 / OneUI 7.0
-- Samsung Galaxy S24 Ultra with Android 16 / OneUI 8.0
+- Samsung Galaxy S24 Ultra with Android 16 + 17 / OneUI 8.0 + OneUI 9.0
 
 ## Operation
 
