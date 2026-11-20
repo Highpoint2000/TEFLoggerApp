@@ -15,7 +15,7 @@ Interactive Logging App for TEF Receiver and FMDX Webserver on Android Smartphon
 
 ## Installation notes:
 
-1. Install the newest TEF Firmware from [here](https://github.com/PE5PVB/TEF6686_ESP32/releases) or install the [FMDX Connector](https://github.com/Highpoint2000/FMDXConnector)
+1. Install the newest TEF Firmware from [here](https://github.com/PE5PVB/TEF6686_ESP32/releases) or [here](https://github.com/Highpoint2000/TEFLoggerApp/tree/main/TEF_Firmware) or install the [FMDX Connector](https://github.com/Highpoint2000/FMDXConnector)
 2. [Download](https://github.com/Highpoint2000/TEFLoggerApp/raw/refs/heads/main/TEFLogger_6.20.apk) the latest apk file 
 3. Install the apk on your smartphone with paket manager
 4. Confirm GPS access
